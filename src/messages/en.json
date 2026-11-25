@@ -158,6 +158,14 @@
       "visionText": "TODO: replace with the official vision statement.",
       "missionTitle": "Mission",
       "missionText": "TODO: replace with the official mission statement.",
+      "principlesLabel": "Our Approach",
+      "principlesHeading": "Our Design Principles",
+      "principlesText": "Three principles that guide every healthcare facility we plan and design.",
+      "principles": {
+        "humanity": { "title": "Humanity", "text": "Spaces shaped around patients, families and the people who care for them." },
+        "flexibility": { "title": "Flexibility", "text": "Layouts that adapt to growth and to changing clinical needs." },
+        "functionality": { "title": "Functionality", "text": "Efficient planning that supports clinical workflows every day." }
+      },
       "valuesLabel": "OUR VALUES",
       "valuesHeading": "What we stand for",
       "values": {
@@ -196,8 +204,10 @@
     },
     "knowledge": {
       "label": "KNOWLEDGE CENTER",
-      "heading": "Insights & resources",
-      "text": "Articles, guides and downloads from our practice — knowledge transfer is one of our core values.",
+      "heading": "Insights from KFO’s engineers",
+      "text": "Seminars, workshops and project journeys that share our experience in healthcare facility planning and design.",
+      "videosHeading": "Seminars, workshops and project journeys",
+      "videosCta": "Watch on YouTube",
       "search": "Search articles…",
       "searchLabel": "Search the Knowledge Center",
       "allCategories": "All",
@@ -216,8 +226,8 @@
     },
     "contact": {
       "label": "CONTACT US",
-      "heading": "Let's start a conversation",
-      "text": "Tell us about your project and our team will get back to you. For a quick response, reach us on WhatsApp.",
+      "heading": "Contact us",
+      "text": "Our team in Riyadh is available to discuss your project. Call, message or visit us.",
       "formHeading": "Send us a message",
       "detailsHeading": "Contact details",
       "hoursLabel": "Working hours",

@@ -62,10 +62,12 @@ export default async function EventPage({
                 <Calendar className="h-3.5 w-3.5 text-steel" aria-hidden />
                 <time dateTime={event.date}>{formatDate(event.date, locale)}</time>
               </span>
-              <span className="inline-flex items-center gap-2">
-                <MapPin className="h-3.5 w-3.5 text-steel" aria-hidden />
-                <TodoText value={locale === 'ar' ? event.place.ar : event.place.en} />
-              </span>
+              {(locale === 'ar' ? event.place.ar : event.place.en) && (
+                <span className="inline-flex items-center gap-2">
+                  <MapPin className="h-3.5 w-3.5 text-steel" aria-hidden />
+                  <TodoText value={locale === 'ar' ? event.place.ar : event.place.en} />
+                </span>
+              )}
             </div>
           </Reveal>
 
@@ -94,6 +96,24 @@ export default async function EventPage({
               ))}
             </div>
           </Reveal>
+
+          {event.gallery.length > 0 && (
+            <Reveal delay={0.2}>
+              <div className="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-3">
+                {event.gallery.map((src, i) => (
+                  <div key={src} className="relative aspect-square overflow-hidden">
+                    <Image
+                      src={src}
+                      alt={`${locale === 'ar' ? event.title.ar : event.title.en} ${i + 2}`}
+                      fill
+                      sizes="(min-width: 640px) 250px, 50vw"
+                      className="object-cover"
+                    />
+                  </div>
+                ))}
+              </div>
+            </Reveal>
+          )}
 
           <Reveal delay={0.24} className="mt-12">
             <Link

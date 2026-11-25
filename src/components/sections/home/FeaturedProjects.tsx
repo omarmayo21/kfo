@@ -75,8 +75,12 @@ export function FeaturedProjects() {
                         <MapPin className="h-3 w-3 text-steel" aria-hidden />
                         <TodoText value={locale === 'ar' ? project.location.ar : project.location.en} />
                       </span>
-                      <span className="h-1 w-1 rounded-full bg-warmgrey" aria-hidden />
-                      <TodoText value={locale === 'ar' ? project.year.ar : project.year.en} />
+                      {(locale === 'ar' ? project.year.ar : project.year.en) && (
+                        <>
+                          <span className="h-1 w-1 rounded-full bg-warmgrey" aria-hidden />
+                          <TodoText value={locale === 'ar' ? project.year.ar : project.year.en} />
+                        </>
+                      )}
                     </p>
 
                     <h3 className="mt-3 font-display text-2xl font-medium leading-snug text-ink transition-colors group-hover:text-steel-shade">

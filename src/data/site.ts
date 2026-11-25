@@ -17,10 +17,10 @@ export const site = {
   whatsappHref: `https://wa.me/${cleanWhatsappDigits}`,
   email: 'info@kfoco.com',
   emailHref: 'mailto:info@kfoco.com',
-  // TODO: confirm the full official address (building, street, district, zip)
+  // Address taken from the old kfoco.com contact page.
   address: {
-    en: 'Riyadh, Saudi Arabia — TODO: confirm full address',
-    ar: 'الرياض، المملكة العربية السعودية — TODO: تأكيد العنوان الكامل'
+    en: '2681 Kharis Branch Road - Al Manar - Unit No. 10, Riyadh',
+    ar: '٢٦٨١ طريق خريص الفرعي - المنار - وحدة رقم ١٠ - الرياض'
   },
   city: { en: 'Riyadh, KSA', ar: 'الرياض، السعودية' },
   socials: [
