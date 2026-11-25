@@ -1,10 +1,9 @@
 import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { buildMetadata } from '@/lib/seo';
-import { assets } from '@/data/assets';
-import { events } from '@/data/events';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { ArticleCard } from '@/components/sections/shared/ArticleCard';
+import { getContent } from '@/lib/content';
 
 export async function generateMetadata({
   params: { locale }
@@ -17,6 +16,7 @@ export async function generateMetadata({
 
 export default async function EventsPage({ params: { locale } }: { params: { locale: string } }) {
   setRequestLocale(locale);
+  const { assets, events } = await getContent();
   const t = await getTranslations({ locale, namespace: 'pages.events' });
 
   return (

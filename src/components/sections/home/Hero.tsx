@@ -5,11 +5,9 @@ import Image from 'next/image';
 import { motion, useReducedMotion, AnimatePresence } from 'framer-motion';
 import { ArrowDown } from 'lucide-react';
 import { useTranslations } from 'next-intl';
-import { assets } from '@/data/assets';
 import { Button } from '@/components/ui/Button';
 import { easeOutExpo } from '@/lib/motion';
-
-const slides = [assets.hero.slide1, assets.hero.slide2, assets.hero.slide3];
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * Full-viewport hero: crossfade slideshow with slow Ken-Burns zoom,
@@ -17,6 +15,8 @@ const slides = [assets.hero.slide1, assets.hero.slide2, assets.hero.slide3];
  * animated thin line draw + scroll indicator + floating stat badge.
  */
 export function Hero() {
+  const { assets } = useContent();
+  const slides = [assets.hero.slide1, assets.hero.slide2, assets.hero.slide3];
   const t = useTranslations('hero');
   const reduce = useReducedMotion();
   const [slide, setSlide] = useState(0);
@@ -111,7 +111,7 @@ export function Hero() {
               transition={{ duration: 0.8, ease: easeOutExpo, delay: 0.85 }}
             >
               <Button
-                href="https://kfoco.com/wp-content/uploads/2025/02/KFO_2025.pdf"
+                href={assets.companyProfilePdf}
                 external
                 download
                 variant="primary"

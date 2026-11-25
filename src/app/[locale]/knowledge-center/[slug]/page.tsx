@@ -4,15 +4,15 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { ArrowLeft, ArrowRight, Download, Calendar, Clock } from 'lucide-react';
 import { buildMetadata } from '@/lib/seo';
-import { assets } from '@/data/assets';
-import { articles, getArticle } from '@/data/articles';
+import { getContent, getArticle } from '@/lib/content';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { Reveal } from '@/components/ui/Reveal';
 import { Button } from '@/components/ui/Button';
 import { TodoText } from '@/components/ui/TodoText';
 import { formatDate } from '@/lib/utils';
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
+  const { articles } = await getContent();
   return articles.map((a) => ({ slug: a.slug }));
 }
 
@@ -21,7 +21,9 @@ export async function generateMetadata({
 }: {
   params: { locale: string; slug: string };
 }): Promise<Metadata> {
-  const article = getArticle(slug);
+  const content = await getContent();
+  const { assets } = content;
+  const article = getArticle(content, slug);
   if (!article) return {};
   const t = await getTranslations({ locale, namespace: 'meta.knowledge' });
   return buildMetadata({
@@ -37,7 +39,9 @@ export default async function ArticlePage({
 }: {
   params: { locale: string; slug: string };
 }) {
-  const article = getArticle(slug);
+  const content = await getContent();
+  const { assets } = content;
+  const article = getArticle(content, slug);
   if (!article) notFound();
 
   setRequestLocale(locale);

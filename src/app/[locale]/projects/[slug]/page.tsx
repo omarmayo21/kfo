@@ -5,8 +5,7 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { ArrowRight, ArrowLeft, MapPin, Building2, Calendar, Ruler, User, ClipboardCheck, CircleDot } from 'lucide-react';
 import { buildMetadata } from '@/lib/seo';
-import { projects, getProject, getAdjacentProjects } from '@/data/projects';
-import { getCategory } from '@/data/categories';
+import { getContent, getProject, getAdjacentProjects, getCategory } from '@/lib/content';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
@@ -14,7 +13,8 @@ import { SectionHeading } from '@/components/ui/SectionHeading';
 import { TodoText } from '@/components/ui/TodoText';
 import { ProjectGallery } from '@/components/sections/shared/ProjectGallery';
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
+  const { projects } = await getContent();
   return projects.map((p) => ({ slug: p.slug }));
 }
 
@@ -23,7 +23,8 @@ export async function generateMetadata({
 }: {
   params: { locale: string; slug: string };
 }): Promise<Metadata> {
-  const project = getProject(slug);
+  const content = await getContent();
+  const project = getProject(content, slug);
   if (!project) return {};
   const t = await getTranslations({ locale, namespace: 'meta.project' });
   const title = locale === 'ar' ? project.title.ar : project.title.en;
@@ -43,13 +44,14 @@ export default async function ProjectPage({
   params: { locale: string; slug: string };
 }) {
   setRequestLocale(locale);
-  const project = getProject(slug);
+  const content = await getContent();
+  const project = getProject(content, slug);
   if (!project) notFound();
 
   const t = await getTranslations({ locale, namespace: 'projects' });
   const tc = await getTranslations({ locale, namespace: 'common' });
-  const cat = getCategory(project.category);
-  const { prev, next } = getAdjacentProjects(slug);
+  const cat = getCategory(content, project.category);
+  const { prev, next } = getAdjacentProjects(content, slug);
   const isRtl = locale === 'ar';
   const Arrow = isRtl ? ArrowLeft : ArrowRight;
 

@@ -11,16 +11,21 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "migrate:content": "node scripts/migrate-content.mjs scripts/seed/data.json scripts/seed/messages"
   },
   "dependencies": {
+    "@sanity/client": "^6.29.1",
     "framer-motion": "11.18.2",
     "lenis": "1.1.20",
     "lucide-react": "0.469.0",
     "next": "^14.2.35",
     "next-intl": "3.26.5",
+    "next-sanity": "^9.12.3",
     "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react-dom": "18.3.1",
+    "sanity": "^3.99.0",
+    "styled-components": "^6.7.0"
   },
   "devDependencies": {
     "@types/node": "22.10.7",
@@ -31,6 +36,7 @@
     "eslint-config-next": "14.2.24",
     "postcss": "8.5.1",
     "tailwindcss": "3.4.17",
+    "tsx": "^4.23.15",
     "typescript": "5.7.3"
   }
 }

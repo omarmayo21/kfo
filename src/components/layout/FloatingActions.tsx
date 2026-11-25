@@ -4,13 +4,14 @@ import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowUp, MessageCircle } from 'lucide-react';
 import { useTranslations } from 'next-intl';
-import { site } from '@/data/site';
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * Floating utilities: WhatsApp button (corner, mirrored in RTL) + back-to-top.
  * Both are plain links/buttons — no gimmicks, generous tap targets.
  */
 export function FloatingActions() {
+  const { site } = useContent();
   const t = useTranslations('common');
   const [showTop, setShowTop] = useState(false);
 

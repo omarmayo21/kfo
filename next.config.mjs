@@ -9,7 +9,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'kfoco.com',
+        hostname: 'cdn.sanity.io',
         pathname: '/**'
       },
       {

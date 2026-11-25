@@ -7,15 +7,15 @@ import { useTranslations, useLocale } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { usePathname } from '@/i18n/navigation';
 import { mainNav } from '@/data/nav';
-import { assets } from '@/data/assets';
-import { site } from '@/data/site';
 import { Button } from '@/components/ui/Button';
 import { LanguageSwitcher } from './LanguageSwitcher';
 import { SocialIcons } from './SocialIcons';
 import { cn } from '@/lib/utils';
+import { useContent } from '@/components/ContentProvider';
 
 /** Full-screen mobile overlay menu with staggered link reveal. */
 export function MobileMenu({ open, onClose }: { open: boolean; onClose: () => void }) {
+  const { site, assets } = useContent();
   const t = useTranslations('nav');
   const tc = useTranslations('topbar');
   const locale = useLocale();

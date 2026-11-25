@@ -1,10 +1,12 @@
+'use client';
+
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-import { clientsRowA, clientsRowB } from '@/data/clients';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { ArrowLink } from '@/components/ui/ArrowLink';
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * Clients marquee — 2 rows scrolling in opposite directions, pausing on hover,
@@ -12,6 +14,7 @@ import { ArrowLink } from '@/components/ui/ArrowLink';
  * inside framed white architectural tiles. Directions flip automatically in RTL.
  */
 export function ClientsMarquee() {
+  const { clientsRowA, clientsRowB } = useContent();
   const t = useTranslations('clients');
 
   const row = (items: typeof clientsRowA, reverse: boolean) => (

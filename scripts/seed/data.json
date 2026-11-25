@@ -1,0 +1,4998 @@
+{
+ "assets": {
+  "logo": "https://kfoco.com/wp-content/uploads/2023/09/Khaled-Alfagih-Logo.png",
+  "companyProfilePdf": "https://kfoco.com/wp-content/uploads/2025/02/KFO_2025.pdf",
+  "hero": {
+   "slide1": "https://kfoco.com/wp-content/uploads/2023/09/img1.jpg",
+   "slide2": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=2000&q=80",
+   "slide3": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=2000&q=80"
+  },
+  "about": {
+   "main": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=80"
+  },
+  "cta": {
+   "background": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=2000&q=80"
+  },
+  "pageHeaders": {
+   "about": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=2000&q=80",
+   "services": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=2000&q=80",
+   "projects": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=2000&q=80",
+   "clients": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=2000&q=80",
+   "knowledge": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=2000&q=80",
+   "events": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=2000&q=80",
+   "contact": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=2000&q=80"
+  },
+  "categories": {
+   "healthcare": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80",
+   "education": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80",
+   "residential": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+   "industrial": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
+   "hospitality": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+   "offices": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80",
+   "transportation": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80",
+   "interior": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80"
+  },
+  "projects": {
+   "dallahNamarHospital": [
+    "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1800&q=80",
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1800&q=80",
+    "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?auto=format&fit=crop&w=1800&q=80"
+   ],
+   "drMohammedAlfagihHospital": [
+    "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=1800&q=80",
+    "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1800&q=80",
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1800&q=80"
+   ],
+   "alHammadiMedicalComplex": [
+    "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?auto=format&fit=crop&w=1800&q=80",
+    "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=1800&q=80",
+    "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1800&q=80"
+   ]
+  },
+  "qualifications": {
+   "items": [
+    "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1589330694653-ded6df03f754?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1568667256549-094345857637?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
+    "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1000&q=80"
+   ]
+  },
+  "map": {
+   "placeholder": "https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1600&q=80"
+  }
+ },
+ "site": {
+  "name": {
+   "en": "Khaled Alfagih Engineering Consultancy Company",
+   "ar": "شركة خالد الفقيه للاستشارات الهندسية"
+  },
+  "shortName": {
+   "en": "KFO",
+   "ar": "KFO"
+  },
+  "phone": "+966 11 232 1519",
+  "phoneHref": "tel:+966112321519",
+  "whatsapp": "+966 50 651 5861",
+  "whatsappHref": "https://wa.me/966506515861",
+  "email": "info@kfoco.com",
+  "emailHref": "mailto:info@kfoco.com",
+  "address": {
+   "en": "2681 Kharis Branch Road - Al Manar - Unit No. 10, Riyadh",
+   "ar": "٢٦٨١ طريق خريص الفرعي - المنار - وحدة رقم ١٠ - الرياض"
+  },
+  "city": {
+   "en": "Riyadh, KSA",
+   "ar": "الرياض، السعودية"
+  },
+  "socials": [
+   {
+    "id": "youtube",
+    "label": "YouTube",
+    "href": "https://www.youtube.com/@kfoffices"
+   },
+   {
+    "id": "twitter",
+    "label": "X (Twitter)",
+    "href": "https://twitter.com/kfoffice"
+   },
+   {
+    "id": "linkedin",
+    "label": "LinkedIn",
+    "href": "https://www.linkedin.com/company/kfoco"
+   },
+   {
+    "id": "instagram",
+    "label": "Instagram",
+    "href": "https://www.instagram.com/kfo_consultancy/"
+   },
+   {
+    "id": "pinterest",
+    "label": "Pinterest",
+    "href": "https://www.pinterest.com/KFOconsultancy/"
+   }
+  ]
+ },
+ "categories": [
+  {
+   "slug": "healthcare",
+   "title": {
+    "en": "Healthcare",
+    "ar": "الرعاية الصحية"
+   },
+   "caption": {
+    "en": "Hospitals & medical complexes — our core specialty",
+    "ar": "المستشفيات والمجمعات الطبية — تخصصنا الأساسي"
+   },
+   "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80",
+   "emphasis": true
+  },
+  {
+   "slug": "education",
+   "title": {
+    "en": "Education",
+    "ar": "التعليمي"
+   },
+   "caption": {
+    "en": "Schools, universities & training centers",
+    "ar": "المدارس والجامعات ومراكز التدريب"
+   },
+   "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+   "slug": "residential",
+   "title": {
+    "en": "Residential",
+    "ar": "السكني"
+   },
+   "caption": {
+    "en": "Compounds, villas & housing projects",
+    "ar": "المجمعات والفلل والمشاريع السكنية"
+   },
+   "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+   "slug": "industrial",
+   "title": {
+    "en": "Industrial",
+    "ar": "الصناعي"
+   },
+   "caption": {
+    "en": "Facilities & industrial buildings",
+    "ar": "المنشآت والمباني الصناعية"
+   },
+   "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+   "slug": "hospitality",
+   "title": {
+    "en": "Hospitality",
+    "ar": "الفندقي"
+   },
+   "caption": {
+    "en": "Hotels & hospitality developments",
+    "ar": "الفنادق ومشروعات الضيافة"
+   },
+   "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+   "slug": "offices-building",
+   "title": {
+    "en": "Offices Building",
+    "ar": "المباني المكتبية"
+   },
+   "caption": {
+    "en": "Headquarters & commercial offices",
+    "ar": "المقار الرئيسية والمكاتب التجارية"
+   },
+   "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+   "slug": "transportation",
+   "title": {
+    "en": "Transportation",
+    "ar": "النقل والمواصلات"
+   },
+   "caption": {
+    "en": "Transport & mobility facilities",
+    "ar": "منشآت النقل والتنقل"
+   },
+   "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+   "slug": "interior",
+   "title": {
+    "en": "Interior",
+    "ar": "التصميم الداخلي"
+   },
+   "caption": {
+    "en": "Interior architecture & fit-out",
+    "ar": "العمارة الداخلية والتشطيبات"
+   },
+   "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80"
+  }
+ ],
+ "projects": [
+  {
+   "slug": "dallah-namar-medical-complex",
+   "title": {
+    "en": "Dallah Namar Medical Complex",
+    "ar": "مجمع دله نمار الطبي"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": "مجموعة دله الصحية"
+   },
+   "area": {
+    "en": "Land 118,704 m² · Built 168,814 m²",
+    "ar": "الأرض 118,704 m² · المبنية 168,814 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 295 Beds",
+    "ar": "السعة: 295 سرير"
+   },
+   "excerpt": {
+    "en": "295 Beds · Design · Riyadh - KSA",
+    "ar": "295 سرير · تصميم · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Projects Capacity 295 Beds",
+     "Land Area 118,704 m²",
+     "Total Built Area 168,814 m²",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مجموعة دله الصحية",
+     "سعة المشروع 295 سرير",
+     "مساحة الأرض 118,704 m²",
+     "المساحة المبنية 168,814 m²",
+     "نطاق العمل تصميم",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitaaled-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlaaed-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untiaatled-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlesd-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-namar-05.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-namar-06.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-namar-07.jpg"
+   ],
+   "featured": true
+  },
+  {
+   "slug": "dr-mohammed-alfagih-hospital",
+   "title": {
+    "en": "Dr. Mohammed Alfagih Hospital",
+    "ar": "مستشفى الدكتور محمد الفقيه"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dr. Mohammed Alfagih Hospital",
+    "ar": "مستشفى الدكتور محمد فقيه"
+   },
+   "area": {
+    "en": "Land 17,175 m² · Built 92,000 m²",
+    "ar": "الأرض 17,175 m² · المبنية 92,000 m²"
+   },
+   "services": {
+    "en": "Design and Supervision",
+    "ar": "تصميم واشراف"
+   },
+   "status": {
+    "en": "Capacity: 300 Beds",
+    "ar": "السعة: 300 سرير"
+   },
+   "excerpt": {
+    "en": "300 Beds · Design and Supervision · Riyadh - KSA",
+    "ar": "300 سرير · تصميم واشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Dr. Mohammed Alfagih Hospital",
+     "Projects Capacity 300 Beds",
+     "Land Area 17,175 m²",
+     "Total Built Area 92,000 m²",
+     "Scope Of Work Design and Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى الدكتور محمد فقيه",
+     "سعة المشروع 300 سرير",
+     "مساحة الأرض 17,175 m²",
+     "المساحة المبنية 92,000 m²",
+     "نطاق العمل تصميم واشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8s.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untsitled-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlsed-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8-2.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-mohammed-01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-mohammed-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-mohammed-03.jpg"
+   ],
+   "featured": true
+  },
+  {
+   "slug": "al-hammadi-medical-complex",
+   "title": {
+    "en": "Al Hammadi Medical Complex",
+    "ar": "مجمع الحماد الطبي"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Al Hammadi Medical Complex",
+    "ar": "مجمع الحماد الطبي"
+   },
+   "area": {
+    "en": "Land 17,550 m² · Built 98,323 m²",
+    "ar": "الأرض 17,550 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 200 Beds",
+    "ar": "السعة: 200 سرير"
+   },
+   "excerpt": {
+    "en": "200 Beds · Design · Riyadh - KSA",
+    "ar": "200 سرير · تصميم · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Al Hammadi Medical Complex",
+     "Projects Capacity 200 Beds",
+     "Land Area 17,550 m²",
+     "Total Built Area 98,323 m²",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مجمع الحماد الطبي",
+     "سعة المشروع 200 سرير",
+     "مساحة الأرض 17,550 m²",
+     "مساحة الأرض المبنية 98,323 m²",
+     "نطاق العمل تصميم",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitsled-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlsed-8-1.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlesd-8-1.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-2-1-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-4-1-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-7-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlexd-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-hammadi-09.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-hammadi-10.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-hammadi-11.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-hammadi-12.jpg"
+   ],
+   "featured": true
+  },
+  {
+   "slug": "akdital-hospitals-construction-supervision-projects",
+   "title": {
+    "en": "Akdital Hospitals – Construction Supervision Projects",
+    "ar": "مستشفيات أكديطال – مشاريع الإشراف على التنفيذ"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Akdital Hospitals – Construction Supervision Projects",
+    "ar": "مستشفيات أكديطال – مشاريع الإشراف على التنفيذ"
+   },
+   "body": {
+    "en": [
+     "Construction supervision services for the renovation of three Akdital Healthcare Group hospitals in Riyadh, Makkah and Jeddah.",
+     "Dr. Abdul Rahman Al Mishari Hospital – Inpatient Wards Renovation",
+     "HealthCare",
+     "Dr. Awad Albishri Hospital – Renovation Supervision, Makkah",
+     "HealthCare",
+     "Odwani Hospital – Renovation & Repurposing Supervision, Jeddah",
+     "HealthCare"
+    ],
+    "ar": [
+     "خدمات الإشراف على التنفيذ لأعمال تجديد ثلاثة مستشفيات تابعة لمجموعة أكديطال للرعاية الصحية في الرياض ومكة المكرمة وجدة.",
+     "مستشفى الدكتور عبد الرحمن المشاري – تجديد أجنحة التنويم",
+     "HealthCare",
+     "مستشفى الدكتور عوض البشري – الإشراف على التجديد، مكة المكرمة",
+     "HealthCare",
+     "مستشفى العدواني – الإشراف على التجديد وإعادة التوظيف، جدة",
+     "HealthCare"
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "al-adwani-general-hospital",
+   "title": {
+    "en": "Al Adwani General Hospital",
+    "ar": "مستشفى العدواني العام"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Jeddah - KSA",
+    "ar": "جدة"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Al Adwani General Hospital",
+    "ar": "مستشفى العدواني العام"
+   },
+   "area": {
+    "en": "Land 5,125 m² · Built 37,000 m²",
+    "ar": "الأرض 5,125 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 100 Beds",
+    "ar": "السعة: 100 سرير"
+   },
+   "excerpt": {
+    "en": "100 Beds · Design · Jeddah - KSA",
+    "ar": "100 سرير · تصميم · جدة"
+   },
+   "body": {
+    "en": [
+     "Client Al Adwani General Hospital",
+     "Projects Capacity 100 Beds",
+     "Land Area 5,125 m²",
+     "Total Built Area 37,000 m²",
+     "Scope Of Work Design",
+     "Location Jeddah - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى العدواني العام",
+     "سعة المشروع 100 سرير",
+     "مساحة الأرض 5,125 m²",
+     "مساحة الأرض المبنية 37,000 m²",
+     "نطاق العمل تصميم",
+     "الموقع جدة"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-ss.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "al-maarefa-university-hospital-hotel-sports-center-recreation-center-public-library",
+   "title": {
+    "en": "Al Maarefa, University, Hospital, Hotel, Sports Center, Recreation Center & Public Library",
+    "ar": "جامعة المعرفة، مستشفى، فندق، مركز رياضي، مركز ترفيهي، مكتبة عامة"
+   },
+   "category": "education",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Al Maarefa University, Hospital, Hotel, Sports Center, Recreation Center & Public Library",
+    "ar": "جامعة المعرفة، مستشفى، فندق، مركز رياضي، مركز ترفيهي، مكتبة عامة"
+   },
+   "area": {
+    "en": "Land 118,882 m² · Built 276,000 m²",
+    "ar": "الأرض 118,882 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 300 Beds and 10,000 Students",
+    "ar": "السعة: 300 سرير و ١٠ آلاف طالب"
+   },
+   "excerpt": {
+    "en": "300 Beds and 10,000 Students · Design · Riyadh - KSA",
+    "ar": "300 سرير و ١٠ آلاف طالب · تصميم · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Al Maarefa University, Hospital, Hotel, Sports Center, Recreation Center & Public Library",
+     "Projects Capacity 300 Beds and 10,000 Students",
+     "Land Area 118,882 m²",
+     "Total Built Area 276,000 m²",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل جامعة المعرفة، مستشفى، فندق، مركز رياضي، مركز ترفيهي، مكتبة عامة",
+     "سعة المشروع 300 سرير و ١٠ آلاف طالب",
+     "مساحة الأرض 118,882 m²",
+     "مساحة الأرض المبنية 276,000 m²",
+     "نطاق العمل تصميم",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-maarefa-campus-aerial-hd-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-maarefa-campus-close-hd-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8ssa.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlassed-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlssed-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8ss.png"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "al-madinah-hospital",
+   "title": {
+    "en": "Al Madinah Hospital",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Al Ahsa , KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Al Madinah Hospital",
+    "ar": ""
+   },
+   "area": {
+    "en": "Land 26,711 m² · Built 37,970 m²",
+    "ar": ""
+   },
+   "services": {
+    "en": "Design",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: 150 Beds",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "150 Beds · Design · Al Ahsa , KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client Al Madinah Hospital",
+     "Projects Capacity 150 Beds",
+     "Land Area 26,711 m²",
+     "Total Built Area 37,970 m²",
+     "Scope Of Work Design",
+     "Location Al Ahsa , KSA"
+    ],
+    "ar": []
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-7430.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-7432.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "al-majmaah-commercial-center",
+   "title": {
+    "en": "Al Majmaah Commercial Center",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Al Majmaah, Riyadh Region, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "Land ≈ 8,160 m² (10 adjacent plots, Nos. 10–19)",
+    "ar": ""
+   },
+   "services": {
+    "en": "Concept Design – Architecture & Interior (two design options)",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Concept Design – Architecture & Interior (two design options) · Al Majmaah, Riyadh Region, KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Project Type Commercial Center (Mall)",
+     "Land Area ≈ 8,160 m² (10 adjacent plots, Nos. 10–19)",
+     "Frontage Prince Sultan Road (40 m)",
+     "Scope Of Work Concept Design – Architecture & Interior (two design options)",
+     "Location Al Majmaah, Riyadh Region, KSA"
+    ],
+    "ar": [
+     "تصور مفاهيمي لمركز تجاري على أرض تبلغ نحو 8,160 م² في المجمعة، تتكون من عشر قطع متجاورة في حي الملك عبدالعزيز بواجهة طويلة على طريق الأمير سلطان واتصال مباشر بالشوارع المحلية المحيطة. يجاور الموقع كتلاً سكنية وحديقة ومسجداً؛ لذلك تتجه الواجهة التجارية نحو الطريق بينما تراعي الواجهات الخلفية خصوصية السكن.",
+     "تحليل الموقع والبيئة: هرمية الشوارع والوصول، والحواف وفرص الدخول، والمناسيب (تفاوت ظاهري نحو 3 أمتار)، ومسار الشمس عبر الفصول، والشمس في الشتاء والاعتدال، واتجاهات الرياح وراحة المستخدم، وقد وجّهت جميعها الكتلة والتظليل وتوجيه الفتحات.",
+     "النموذج الأول: كتلة بيضاء منخفضة منسابة بواجهة مثقبة بلون التراكوتا، وبهو مدخل رحب وأتريوم، وممرات محلات بجلسات، وكافي ومدرجات في الدور الأخير، وبدروم للمواقف.",
+     "النموذج الثاني: تكوين متدرج مكسو بالحجر مع شرفات مظللة بالخشب، ومدخل مشجّر، وجلسات كافي مطلة على الحي المحيط.",
+     "التصميم الداخلي: أتريوم مضاء طبيعياً بالنباتات وأسقف خشبية دافئة يربط الأدوار التجارية، مع واجهات محلات زجاجية وشرفات مفتوحة ومناطق جلوس مريحة على امتداد الحركة."
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-19-m1-front-facade.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-21-m1-aerial.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-22-m1-street-facade.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-24-m1-side-facade.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-25-m1-entrance-corner.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-26-m1-left-side.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-27-m1-entrance-parking.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-28-m1-entrance-pedestrian.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-34-m1-aerial-roundabout.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-37-m2-overview.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-39-m2-main-entrance.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-40-m2-cafe-seating.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-29-in-m1-lobby-atrium.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-30-in-m1-shops-corridor.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-31-in-m1-upper-view.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-32-in-m1-top-cafe.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majmaah-33-in-m1-evening-seating.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "almana-medical-complex-college-of-nursing",
+   "title": {
+    "en": "Almana Medical Complex & College of Nursing",
+    "ar": "مساحة الأرض 24,425 م²"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Al Naseem Al Sharqi, Khurais Road, Riyadh, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Almana",
+    "ar": ""
+   },
+   "area": {
+    "en": "Land 24,425 m² · Built 93,238 m² (above ground)",
+    "ar": "الأرض 24,425 م²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Design · Al Naseem Al Sharqi, Khurais Road, Riyadh, KSA",
+    "ar": "تصميم"
+   },
+   "body": {
+    "en": [
+     "Client Almana",
+     "Location Al Naseem Al Sharqi, Khurais Road, Riyadh, KSA",
+     "Land Area 24,425 m²",
+     "Capacity 180–200 Beds",
+     "Scope Of Work Design",
+     "Total Built Area 93,238 m² (above ground)",
+     "Parking 1,009 Cars"
+    ],
+    "ar": [
+     "السعة 180–200 سرير",
+     "نطاق العمل تصميم",
+     "إجمالي مساحة البناء 93,238 م² (فوق الأرض)",
+     "المواقف 1,009 سيارة"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-01.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-02.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-12.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-03.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-04.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-05.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-06.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-07.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-08.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-almana-09.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-7466.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-al-arid-healthcare-medical-complex",
+   "title": {
+    "en": "Dallah Al Arid Medical Complex",
+    "ar": "العودة إلى مشاريع دلة"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": ""
+   },
+   "area": {
+    "en": "Built 123,163 m²",
+    "ar": ""
+   },
+   "services": {
+    "en": "Construction Supervision",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: Dallah Healthcare Medical Complex Riyadh -KSA Construction Supervision",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dallah Healthcare Medical Complex Riyadh -KSA Construction Supervision · Construction Supervision · Riyadh - KSA",
+    "ar": "العودة إلى مشاريع دلة"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Projects Capacity Dallah Healthcare Medical Complex Riyadh -KSA Construction Supervision",
+     "Total Built Area 123,163 m²",
+     "Scope Of Work Construction Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": []
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-arid-crane.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-arid-scaffold.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-arid-site.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-al-nakheel-construction-supervision-projects",
+   "title": {
+    "en": "Dallah Al Nakheel – Construction Supervision Projects",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Construction Supervision",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Construction Supervision · Riyadh - KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Scope Of Work Construction Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "خدمات استشارات الإشراف على التنفيذ لمجموعة دله الصحية في مجمع النخيل بالرياض، بموجب اتفاقيتين.",
+     "تجديد وتعديل الجانب CD من المبنى الرئيسي للمستشفى (2021)",
+     "تجديد شامل لخمسة طوابق بمساحة بناء حوالي 11,350 م² وأعمال خارجية 2,500 م²: المختبر (القبو)؛ قسم الطوارئ (الأرضي)؛ التنويم بسعة 20 سريراً مع غرف العزل (الأول)؛ الولادة بـ17 غرفة LDR مع غرف عزل وغرف العمليات القيصرية وما قبل العملية وبعدها (الثاني)؛ التنويم بسعة 16 سريراً شاملة غرف VIP (الثالث)؛ التطوير الخارجي؛ وتصميم الدور العلوي للعيادات الشمالية كوحدة غسيل كلى (حوالي 1,300 م²).",
+     "مشاريع متعددة في مجمع النخيل (2025)",
+     "توسعة العناية المركزة لحديثي الولادة في المبنى الرئيسي (تصميم وتنفيذ)؛ منطقة جمع العينات الجديدة في مبنى المستشفى الغربي (تصميم وتنفيذ)؛ ومشاريع تطوير متعددة في الأشعة والقبو والنساء والولادة والتعقيم المركزي وغرف العمليات.",
+     "خدمات الإشراف",
+     "متابعة التزام المقاولين بالأكواد ومتطلبات الجهات ومعايير دله، ومراقبة التقدم مقابل الجدول المعتمد.",
+     "مراجعة خطط السلامة والجودة وإجراءات الفحص والاختبار وحضور الاختبارات.",
+     "الاعتمادات الفنية: المخططات التنفيذية وعينات المواد وطرق التنفيذ والحسابات والمخططات المنفذة.",
+     "المساعدة في مراجعة المستخلصات والمطالبات وأوامر التغيير.",
+     "قوائم الملاحظات والتسليم ومتابعة فترة الضمان وإدارة الوثائق."
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-7407.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-al-nakheel-medical-complex",
+   "title": {
+    "en": "Dallah Al Nakheel Medical Complex",
+    "ar": "مجمع دله النخيل الطبي"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dallah Al Nakheel Medical Complex",
+    "ar": "مجمع دله النخيل الطبي"
+   },
+   "body": {
+    "en": [
+     "Dallah North Clinics",
+     "HealthCare",
+     "Dallah Pediatric Hospital",
+     "HealthCare",
+     "Dallah Al Nakheel – Construction Supervision Projects",
+     "HealthCare"
+    ],
+    "ar": [
+     "عيادات دلة الشمالية",
+     "HealthCare",
+     "مستشفى دلة للأطفال",
+     "HealthCare",
+     "مجمع دله النخيل – مشاريع الإشراف على التنفيذ",
+     "HealthCare"
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-al-nakheel-residential-buildings",
+   "title": {
+    "en": "Dallah Al Nakheel Residential Buildings",
+    "ar": "المباني السكنية لمجمع دله النخيل الطبي"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": "مجموعة دله الصحية"
+   },
+   "area": {
+    "en": "Land 6,250 m² · Built 29,000 m²",
+    "ar": "الأرض 6,250 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 50 Units",
+    "ar": "السعة: 50 سرير"
+   },
+   "excerpt": {
+    "en": "50 Units · Design · Riyadh - KSA",
+    "ar": "50 سرير · تصميم · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Projects Capacity 50 Units",
+     "Land Area 6,250 m²",
+     "Total Built Area 29,000 m²",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مجموعة دله الصحية",
+     "سعة المشروع 50 سرير",
+     "مساحة الأرض 6,250 m²",
+     "مساحة الأرض المبنية 29,000 m²",
+     "نطاق العمل تصميم",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dallah-residential-02-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dallah-north-housing-aerial-hd-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-4-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-derab-hospital-administration-building",
+   "title": {
+    "en": "Dallah Derab Hospital – Administration Building",
+    "ar": "العودة إلى مشاريع دلة"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Concept Design – Architecture & Interior",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Concept Design – Architecture & Interior · Riyadh, KSA",
+    "ar": "العودة إلى مشاريع دلة"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Project Type Administration Building",
+     "Net Area Ground 2,418 m² · First 2,510 m² · Annex 960 m²",
+     "Scope Of Work Concept Design – Architecture & Interior",
+     "Location Riyadh, KSA"
+    ],
+    "ar": [
+     "يُعد المجمع الإداري جزءاً من حرم مستشفى دله ديراب لعلاج الإدمان والصحة النفسية في الرياض. يُنظّم التصميم المفاهيمي العمليات والمراقبة والدعم الفني والموارد البشرية والمالية والجودة والإدارة التنفيذية حول ردهة مركزية مضاءة طبيعياً تعمل كصالة مشتركة ومحور حركة ونقطة توجيه.",
+     "التصميم المعماري: كسوة من الحجر الفاتح وشاشات مشربية برونزية ومدخل رئيسي زجاجي تمنح المبنى هوية هادئة ورصينة ضمن الحرم، مع إيقاع نوافذ رأسي ومدخل مظلل يحدد نقطة الوصول.",
+     "التصميم الداخلي: مكتب استقبال منحنٍ بجوار مصعد زجاجي بكامل الارتفاع، ومقاعد صالة معيارية منحنية حول أحواض نباتات، وممرات وواجهات مكاتب زجاجية تحافظ على الاتصال البصري بالردهة، مع مكاتب خشبية وشريط أرضية أزرق رمادي لخلق بيئة عمل مشرقة وشفافة ومرحبة.",
+     "التخطيط: يضم الدور الأرضي مراقبة الكاميرات والعمليات والغرف الفنية وردهة الوصول؛ ويوزع الدور الأول إدارات التمريض والموارد البشرية والطبية والتنفيذية والجودة والمخاطر والمالية حول المركز المشترك؛ ويحتضن الملحق في الدور الثاني العمليات والمهندسين والمكاتب الفنية."
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-ext-02-campus-setting.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-ext-03-main-entrance.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-ext-04-facade-design.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-01-reception-glass-lift.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-02-central-atrium-lounge.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-03-atrium-upper-level.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-04-glazed-corridor.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-05-reception-atrium.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-06-entrance-facade-detail.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-07-private-office.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-08-shared-workstations.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-09-meeting-room.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-dhdrb-int-10-lounge-detail.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-healthcare-projects",
+   "title": {
+    "en": "Dallah Healthcare Projects",
+    "ar": "مشاريع مجموعة دله الصحية"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dallah Healthcare Projects",
+    "ar": "مشاريع مجموعة دله الصحية"
+   },
+   "body": {
+    "en": [
+     "KFO has delivered design, project management and construction supervision services across the facilities of Dallah Healthcare Company in Riyadh. Select a project to learn more.",
+     "Dallah Namar Medical Complex",
+     "HealthCare",
+     "Design of Outpatient & Rehab Building at Namar Hospital",
+     "HealthCare",
+     "Dallah Al Nakheel Medical Complex",
+     "HealthCare",
+     "Dallah Al Arid Medical Complex",
+     "HealthCare",
+     "Dallah Derab Psychiatric & Addiction Treatment Hospital",
+     "HealthCare"
+    ],
+    "ar": [
+     "قدّمت الشركة خدمات التصميم وإدارة المشاريع والإشراف على التنفيذ في منشآت شركة دله الصحية بالرياض. اختر المشروع للاطلاع على تفاصيله.",
+     "مجمع دله نمار الطبي",
+     "HealthCare",
+     "تصميم العيادات الخارجية وإعادة التأهيل لمستشفى دله نمار",
+     "HealthCare",
+     "مجمع دله النخيل الطبي",
+     "HealthCare",
+     "مجمع دله العارض الطبي",
+     "HealthCare",
+     "مستشفى دله ديراب لعلاج الإدمان والصحة النفسية",
+     "HealthCare"
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-new-offices",
+   "title": {
+    "en": "Dallah New Offices",
+    "ar": "مكاتب دله الإدارية الجديدة"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": "مجموعة دله الصحية"
+   },
+   "area": {
+    "en": "Land 1000 m² · Built 3000 m²",
+    "ar": "الأرض 1000 m² · المبنية 1500 m²"
+   },
+   "services": {
+    "en": "Design and Supervision",
+    "ar": "تصميم واشراف"
+   },
+   "status": {
+    "en": "Capacity: 400 m² Private offices, Workstations, Meeting Rooms, Reception, Lounges, Open Work Space and Hallways for 2 floors office.",
+    "ar": "السعة: مكاتب خاصة بمساحة 400 متر مربع، محطات عمل، غرف اجتماعات، استقبال، صالات، مساحة عمل مفتوحة وممرات لمكتب مكون من طابقين."
+   },
+   "excerpt": {
+    "en": "400 m² Private offices, Workstations, Meeting Rooms, Reception, Lounges, Open Work Space and Hallways for 2 floors office. · Design and Supervision · Riyadh - KSA",
+    "ar": "مكاتب خاصة بمساحة 400 متر مربع، محطات عمل، غرف اجتماعات، استقبال، صالات، مساحة عمل مفتوحة وممرات لمكتب مكون من طابقين. · تصميم واشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Projects Capacity 400 m² Private offices, Workstations, Meeting Rooms, Reception, Lounges, Open Work Space and Hallways for 2 floors office.",
+     "Land Area 1000 m²",
+     "Total Built Area 3000 m²",
+     "Scope Of Work Design and Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مجموعة دله الصحية",
+     "سعة المشروع مكاتب خاصة بمساحة 400 متر مربع، محطات عمل، غرف اجتماعات، استقبال، صالات، مساحة عمل مفتوحة وممرات لمكتب مكون من طابقين.",
+     "مساحة الأرض 1000 m²",
+     "المساحة المبنية 1500 m²",
+     "نطاق العمل تصميم واشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P4.4.4.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P6.1.1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P7.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-S3.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P10.1-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-north-clinics",
+   "title": {
+    "en": "Dallah North Clinics",
+    "ar": "عيادات دلة الشمالية"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": "مجموعة دله الصحية"
+   },
+   "area": {
+    "en": "Land 4,000 m² · Built 17,600 m²",
+    "ar": "الأرض 4,000 m²"
+   },
+   "services": {
+    "en": "Design and Supervision",
+    "ar": "تصميم وإشراف"
+   },
+   "status": {
+    "en": "Capacity: 70 Clinics",
+    "ar": "السعة: 70 عيادة"
+   },
+   "excerpt": {
+    "en": "70 Clinics · Design and Supervision · Riyadh - KSA",
+    "ar": "70 عيادة · تصميم وإشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Projects Capacity 70 Clinics",
+     "Land Area 4,000 m²",
+     "Total Built Area 17,600 m²",
+     "Scope Of Work Design and Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مجموعة دله الصحية",
+     "سعة المشروع 70 عيادة",
+     "مساحة الأرض 4,000 m²",
+     "مساحة الأرض المبنية 17,600 m²",
+     "نطاق العمل تصميم وإشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-img4244.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-img4246.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-pediatric-hospital",
+   "title": {
+    "en": "Dallah Pediatric Hospital",
+    "ar": "مستشفى دلة للأطفال"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": "مجموعة دله الصحية"
+   },
+   "area": {
+    "en": "Land 3,096 m² · Built 13,598 m²",
+    "ar": "الأرض 3,096 m²"
+   },
+   "services": {
+    "en": "Design and Supervision",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: 80 Beds",
+    "ar": "السعة: 80 سرير"
+   },
+   "excerpt": {
+    "en": "80 Beds · Design and Supervision · Riyadh - KSA",
+    "ar": "80 سرير · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Projects Capacity 80 Beds",
+     "Land Area 3,096 m²",
+     "Total Built Area 13,598 m²",
+     "Scope Of Work Design and Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مجموعة دله الصحية",
+     "سعة المشروع 80 سرير",
+     "مساحة الأرض 3,096 m²",
+     "مساحة الأرض المبنية 13,598 m²",
+     "نطاق المشروع تصميم وإشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-sdfd.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dfd.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dallah-psychiatric-hospital-dirab",
+   "title": {
+    "en": "Dallah Derab Psychiatric & Addiction Treatment Hospital",
+    "ar": "العودة إلى مشاريع دلة"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": ""
+   },
+   "area": {
+    "en": "Land 40,000 m² · Built 60,000 m²",
+    "ar": ""
+   },
+   "services": {
+    "en": "Design",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Design · Riyadh, KSA",
+    "ar": "العودة إلى مشاريع دلة"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Capacity 180 Beds",
+     "Land Area 40,000 m²",
+     "Total Built Area 60,000 m²",
+     "Scope Of Work Design",
+     "Location Riyadh, KSA"
+    ],
+    "ar": []
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-02-facade-corner-day.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-03-facade-night.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-04-aerial-view.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-05-site-plan.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-06-interior-reception-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-07-interior-reception-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-08-interior-lobby-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-09-interior-lobby-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-10-interior-reception-3.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-11-interior-waiting.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-12-interior-meeting.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-dirab-13-interior-service-counter.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-4-100.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-3-100.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dammam-private-hospital",
+   "title": {
+    "en": "Dammam Private Hospital",
+    "ar": "مستشفى الدمام الخاص"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Dammam - KSA",
+    "ar": "الدمام"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dammam Private Hospital",
+    "ar": "مستشفى الدمام الخاص"
+   },
+   "area": {
+    "en": "Land 21,454 m² · Built 117,670 m²",
+    "ar": "الأرض 21,454 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 300 Beds",
+    "ar": "السعة: 300 سرير"
+   },
+   "excerpt": {
+    "en": "300 Beds · Design · Dammam - KSA",
+    "ar": "300 سرير · تصميم · الدمام"
+   },
+   "body": {
+    "en": [
+     "Client Dammam Private Hospital",
+     "Projects Capacity 300 Beds",
+     "Land Area 21,454 m²",
+     "Total Built Area 117,670 m²",
+     "Scope Of Work Design",
+     "Location Dammam - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى الدمام الخاص",
+     "سعة المشروع 300 سرير",
+     "مساحة الأرض 21,454 m²",
+     "مساحة الأرض المبنية 117,670 m²",
+     "نطاق العمل تصميم",
+     "الموقع الدمام"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/image-4-scaled.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/image-5-scaled.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/image-6-scaled.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/image-7.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/image-8.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dr-abdul-rahman-al-mishari-hospital-inpatient-wards-renovation",
+   "title": {
+    "en": "Dr. Abdul Rahman Al Mishari Hospital – Inpatient Wards Renovation",
+    "ar": "نطاق العمل الإشراف على التنفيذ (الأعمال المعمارية)"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Akdital Healthcare Group",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Construction Supervision (Architectural Works)",
+    "ar": "الإشراف على التنفيذ (الأعمال المعمارية)"
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Construction Supervision (Architectural Works) · Riyadh, KSA",
+    "ar": "الإشراف على التنفيذ (الأعمال المعمارية)"
+   },
+   "body": {
+    "en": [
+     "Client Akdital Healthcare Group",
+     "Location Riyadh, KSA",
+     "Scope Of Work Construction Supervision (Architectural Works)"
+    ],
+    "ar": [
+     "نطاق العمل: الإشراف على التنفيذ (الأعمال المعمارية)."
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dr-awad-albishri-hospital-renovation-supervision-makkah",
+   "title": {
+    "en": "Dr. Awad Albishri Hospital – Renovation Supervision, Makkah",
+    "ar": "نطاق العمل الإشراف على التنفيذ"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Makkah, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Akdital Healthcare Group",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Construction Supervision",
+    "ar": "الإشراف على التنفيذ"
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Construction Supervision · Makkah, KSA",
+    "ar": "الإشراف على التنفيذ"
+   },
+   "body": {
+    "en": [
+     "Client Akdital Healthcare Group",
+     "Location Makkah, KSA",
+     "Scope Of Work Construction Supervision"
+    ],
+    "ar": [
+     "نطاق العمل: الإشراف على التنفيذ."
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dr-soliman-fakeeh-hospital-jeddah",
+   "title": {
+    "en": "Dr. Soliman Fakeeh Hospital – Jeddah",
+    "ar": "مستشفى الدكتور سليمان فقيه – جدة"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Jeddah - KSA",
+    "ar": "جدة"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dr. Soliman Fakeeh Hospital",
+    "ar": "مستشفى الدكتور سليمان فقيه"
+   },
+   "area": {
+    "en": "Land 26,881 m² · Built 30,644 m²",
+    "ar": "الأرض 26,881 m²"
+   },
+   "services": {
+    "en": "Consultancy Services for Bed Capacity Expansion (MOH Approval), Re-Purposing",
+    "ar": "خدمات استشارية لتوسعة السعة السريرية (اعتماد وزارة الصحة) وإعادة الاستخدام"
+   },
+   "status": {
+    "en": "Capacity: +450 Beds",
+    "ar": "السعة: +450 سرير"
+   },
+   "excerpt": {
+    "en": "+450 Beds · Consultancy Services for Bed Capacity Expansion (MOH Approval), Re-Purposing · Jeddah - KSA",
+    "ar": "+450 سرير · خدمات استشارية لتوسعة السعة السريرية (اعتماد وزارة الصحة) وإعادة الاستخدام · جدة"
+   },
+   "body": {
+    "en": [
+     "Client Dr. Soliman Fakeeh Hospital",
+     "Projects Capacity +450 Beds",
+     "Land Area 26,881 m²",
+     "Total Built Area 30,644 m²",
+     "Scope Of Work Consultancy Services for Bed Capacity Expansion (MOH Approval), Re-Purposing",
+     "Location Jeddah - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى الدكتور سليمان فقيه",
+     "سعة المشروع +450 سرير",
+     "مساحة الأرض 26,881 m²",
+     "مساحة الأرض المبنية 30,644 m²",
+     "نطاق العمل خدمات استشارية لتوسعة السعة السريرية (اعتماد وزارة الصحة) وإعادة الاستخدام",
+     "الموقع جدة"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-fakeeh-jeddah-night-hd-scaled-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dr-soliman-fakeeh-hospital-projects",
+   "title": {
+    "en": "Dr. Soliman Fakeeh Hospital Projects",
+    "ar": "مشاريع مستشفى الدكتور سليمان فقيه"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dr. Soliman Fakeeh Hospital Projects",
+    "ar": "مشاريع مستشفى الدكتور سليمان فقيه"
+   },
+   "body": {
+    "en": [
+     "KFO has delivered services for Dr. Soliman Fakeeh Hospital in Jeddah, including consultancy for bed capacity expansion and re-purposing, and in Riyadh, including the psychiatric ward with isolation rooms. Select a project to learn more.",
+     "Dr. Soliman Fakeeh Hospital – Jeddah",
+     "HealthCare",
+     "Dr. Soliman Fakeeh Hospital – Psychiatric Ward and Isolation Rooms Design",
+     "HealthCare"
+    ],
+    "ar": [
+     "قدّمت الشركة خدمات استشارية لمستشفى الدكتور سليمان فقيه في جدة (توسعة السعة السريرية وإعادة التوظيف) وفي الرياض (جناح الطب النفسي مع غرف العزل). اختر مشروعاً لمعرفة المزيد.",
+     "مستشفى الدكتور سليمان فقيه – جدة",
+     "HealthCare",
+     "مستشفى الدكتور سليمان فقيه – تصميم جناح الطب النفسي وغرف العزل",
+     "HealthCare"
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "dr-soliman-fakeeh-hospital-psychiatric-ward-isolation-rooms",
+   "title": {
+    "en": "Dr. Soliman Fakeeh Hospital – Psychiatric Ward and Isolation Rooms Design",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dr. Soliman Fakeeh Hospital",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Design",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Design · Riyadh - KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client Dr. Soliman Fakeeh Hospital",
+     "Project Capacity 1,600 m² psychiatric ward inside the hospital in Riyadh, plus 200 m² of isolation rooms in ICU and recovery",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": []
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-3-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-4-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-5-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-6-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-7-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-8-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-1-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-2-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "hawtat-sudair-hospital-main-building-expansion",
+   "title": {
+    "en": "Hawtat Sudair Hospital – Main Building Expansion",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Hawtat Sudair, Riyadh Region, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Riyadh Second Health Cluster",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Pre-Concept Design – Architecture & Interior",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Pre-Concept Design – Architecture & Interior · Hawtat Sudair, Riyadh Region, KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client Riyadh Second Health Cluster",
+     "Project Type Hospital Expansion – Main Building",
+     "Floor Area Ground 1,431 m² · First 1,404 m²",
+     "Scope Of Work Pre-Concept Design – Architecture & Interior",
+     "Location Hawtat Sudair, Riyadh Region, KSA"
+    ],
+    "ar": [
+     "يُمثّل المبنى الرئيسي نواة توسعة مستشفى حوطة سدير المقترحة في منطقة الرياض. يُنظّم التصميم المبدئي الوظائف التشخيصية والعامة في الدور الأرضي، والرعاية الحرجة والجراحية في الدور الأول، مع غرف المرضى ومكاتب الأطباء في الأدوار العليا.",
+     "الدور الأرضي: الردهة الرئيسية والاستقبال والصيدلية والمختبر الطبي ووحدة الرنين المغناطيسي والمطبخ ومكاتب الصيدلية، موزعة حول مسار حركة عام واضح مع ارتباط مستقل بالطوارئ.",
+     "الدور الأول: قسم العمليات والتعقيم المركزي ووحدة العناية المركزة، مخطط كمنطقة محكومة بحركة مخصصة وفصل بين النظيف والملوث.",
+     "التصميم الداخلي: تشطيبات محايدة دافئة بلمسات زرقاء وإضاءة طبيعية وإرشاد واضح ومناطق انتظار هادئة في الردهة والصيدلية والمختبر، وبيئات سريرية متخصصة للعناية المركزة وغرفة العمليات والتعقيم المركزي.",
+     "الحرم: ترتبط التوسعة بالحرم القائم عبر مدخل للمشاة وواجهات مظللة، مع مواقف سيارات مشجرة وروابط طرق واضحة.",
+     "استكشف الموقع العام",
+     "اضغط على المبنى لعرض تفاصيله",
+     "اضغط على أحد المباني في المخطط لعرض تفاصيله هنا."
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-ext-02-building-and-parking.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-ext-03-road-through-campus.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-int-01-lobby-entrance-reception.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-int-02-pharmacy.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-int-03-lobby-waiting.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-int-04-clinical-laboratory.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-int-05-icu.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-int-06-operating-theatre.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hawtat-int-07-cssd.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "health-endowment-mc",
+   "title": {
+    "en": "Health Endowment MC",
+    "ar": "مجمع الأوقاف الصحي"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Dammam - KSA",
+    "ar": "الدمام"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Health Endowment MC",
+    "ar": "مركز الوقف الصحي الطبي"
+   },
+   "area": {
+    "en": "Land 15,000 m² · Built 28,000 m²",
+    "ar": "الأرض 15,000 m² · المبنية 28,000 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: Medical Complex",
+    "ar": "السعة: مجمع طبي"
+   },
+   "excerpt": {
+    "en": "Medical Complex · Design · Dammam - KSA",
+    "ar": "مجمع طبي · تصميم · الدمام"
+   },
+   "body": {
+    "en": [
+     "Client Health Endowment MC",
+     "Projects Capacity Medical Complex",
+     "Land Area 15,000 m²",
+     "Total Built Area 28,000 m²",
+     "Scope Of Work Design",
+     "Location Dammam - KSA"
+    ],
+    "ar": [
+     "العميل مركز الوقف الصحي الطبي",
+     "سعة المشروع مجمع طبي",
+     "مساحة الأرض 15,000 m²",
+     "المساحة المبنية 28,000 m²",
+     "نطاق العمل تصميم",
+     "الموقع الدمام"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-IMG-20231102-WA0003.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-IMG-20231102-WA0010.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-IMG-20231102-WA0009.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-IMG-20231102-WA0008.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-IMG-20231102-WA0007.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-IMG-20231102-WA0002.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-IMG-20231102-WA0001.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-1-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "institute-of-consulting-and-business-solutions-prince-sattam-bin-abdulaziz-university",
+   "title": {
+    "en": "Institute of Consulting and Business Solutions, Prince Sattam Bin Abdulaziz University",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Institute of Consulting and Business Solutions, Prince Sattam Bin Abdulaziz University",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Consultancy and Supervision Services",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: Riyadh City Roads Maintenance Supervision and Consultancy Services",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Riyadh City Roads Maintenance Supervision and Consultancy Services · Consultancy and Supervision Services · Riyadh - KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client Institute of Consulting and Business Solutions, Prince Sattam Bin Abdulaziz University",
+     "Projects Capacity Riyadh City Roads Maintenance Supervision and Consultancy Services",
+     "Scope Of Work Consultancy and Supervision Services",
+     "Location Riyadh - KSA"
+    ],
+    "ar": []
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2024/05/LOGO-03j-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-blood-bank",
+   "title": {
+    "en": "Blood Bank Center",
+    "ar": "مركز بنك الدم"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Blood Bank Center",
+    "ar": "مركز بنك الدم"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-blood-bank-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-blood-bank-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-blood-bank-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-bloodbank-04.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-dallah-hq",
+   "title": {
+    "en": "Dallah Head Office – Al Nakheel Tower",
+    "ar": "المقر الرئيسي لدلة – برج النخيل"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dallah Head Office – Al Nakheel Tower",
+    "ar": "المقر الرئيسي لدلة – برج النخيل"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design",
+     "Spaces Administration offices"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية",
+     "المساحات المكاتب الإدارية"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-hq-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-hq-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-hq-04.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-dallah-nakheel",
+   "title": {
+    "en": "Dallah Hospital – Al Nakheel",
+    "ar": "مستشفى دلة – النخيل"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dallah Hospital – Al Nakheel",
+    "ar": "مستشفى دلة – النخيل"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design",
+     "Spaces Lobby, Clinics, Pharmacy, Reception & Waiting, Nurse Station, Patient Rooms, Mosque"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية",
+     "المساحات الردهة، العيادات، الصيدلية، الاستقبال والانتظار، محطة التمريض، غرف المرضى، المسجد"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-05.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-06.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-07.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-08.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-09.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-10.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-11.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-nakheel-12.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-nakheel-12.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-nakheel-13.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-nakheel-14.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-nakheel-15.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-nakheel-16.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-dallah-namar",
+   "title": {
+    "en": "Dallah Namar Hospital",
+    "ar": "مستشفى دلة نمار"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dallah Namar Hospital",
+    "ar": "مستشفى دلة نمار"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design",
+     "Spaces Reception, Main Lobby, Patient Room"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية",
+     "المساحات الاستقبال، الردهة الرئيسية، غرفة المريض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-05.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-07.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-08.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-09.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-10.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-11.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-dallah-namar-12.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-namar-12.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-fakeeh-psych",
+   "title": {
+    "en": "Dr. Suliman Fakeeh Hospital – Psychiatric Ward",
+    "ar": "مستشفى الدكتور سليمان الفقيه – قسم الصحة النفسية"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dr. Suliman Fakeeh Hospital – Psychiatric Ward",
+    "ar": "مستشفى الدكتور سليمان الفقيه – قسم الصحة النفسية"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-fakeeh-psych-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-fakeeh-psych-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-fakeeh-psych-04.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-kingdom",
+   "title": {
+    "en": "Kingdom Hospital",
+    "ar": "مستشفى المملكة"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Kingdom Hospital",
+    "ar": "مستشفى المملكة"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design",
+     "Spaces Reception, Patient Room"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية",
+     "المساحات الاستقبال، غرفة المريض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-kingdom-01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-kingdom-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-kingdom-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-kingdom-05.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-kkesh",
+   "title": {
+    "en": "King Khalid Eye Specialized Hospital",
+    "ar": "مستشفى الملك خالد التخصصي للعيون – التصميم الداخلي"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "King Khalid Eye Specialized Hospital",
+    "ar": "مستشفى الملك خالد التخصصي للعيون – التصميم الداخلي"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-kkesh-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-kkesh-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-kkesh-04.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-majesty",
+   "title": {
+    "en": "Majesty Hospital – Interior Design",
+    "ar": "مستشفى ماجيستي"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Majesty Hospital – Interior Design",
+    "ar": "مستشفى ماجيستي"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design",
+     "Spaces Main Lobby, Patient Room"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية",
+     "المساحات الردهة الرئيسية، غرفة المريض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-majesty-01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-majesty-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-majesty-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-majesty-05.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-majesty-06.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-majesty-07.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-majesty-08.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-majesty-09.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-mohammed-fagih",
+   "title": {
+    "en": "Dr. Mohammed Fagih Hospital",
+    "ar": "مستشفى الدكتور محمد الفقيه – التصميم الداخلي"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Dr. Mohammed Fagih Hospital",
+    "ar": "مستشفى الدكتور محمد الفقيه – التصميم الداخلي"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design",
+     "Spaces VIP Suite, Lobby, Patient Room"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية",
+     "المساحات جناح كبار الشخصيات، الردهة، غرفة المريض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-05.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-06.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-07.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-08.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-09.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-mohammed-fagih-10.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-prestige",
+   "title": {
+    "en": "Prestige Medical Centre",
+    "ar": "سعة المشروع المركز الطبي التجميلي جراحة اليوم الواحد والعيادات الخارجية وغرف العمليات"
+   },
+   "category": "interior",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Primary Care - KSA",
+    "ar": ""
+   },
+   "area": {
+    "en": "Land 1000 m² · Built 3000 m²",
+    "ar": "الأرض 1000 m² · المبنية 300 m²"
+   },
+   "services": {
+    "en": "Design and Supervision",
+    "ar": "تصميم واشراف"
+   },
+   "status": {
+    "en": "Capacity: Aesthetic Medical Center \"Day Surgery, Outpaitient and Operations Rooms",
+    "ar": "السعة: المركز الطبي التجميلي جراحة اليوم الواحد والعيادات الخارجية وغرف العمليات"
+   },
+   "excerpt": {
+    "en": "Aesthetic Medical Center \"Day Surgery, Outpaitient and Operations Rooms · Design and Supervision · Riyadh - KSA",
+    "ar": "المركز الطبي التجميلي جراحة اليوم الواحد والعيادات الخارجية وغرف العمليات · تصميم واشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Primary Care - KSA",
+     "Projects Capacity Aesthetic Medical Center \"Day Surgery, Outpaitient and Operations Rooms",
+     "Land Area 1000 m²",
+     "Total Built Area 3000 m²",
+     "Scope Of Work Design and Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "مساحة الأرض 1000 m²",
+     "المساحة المبنية 300 m²",
+     "نطاق العمل تصميم واشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-prestige-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-prestige-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-prestige-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-7.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-8.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-9.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-1-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-2-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-3-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-4-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-5-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-6.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-riyadh",
+   "title": {
+    "en": "Riyadh Hospital – Interior Design",
+    "ar": "مستشفى الرياض – التصميم الداخلي"
+   },
+   "category": "interior",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Riyadh Hospital",
+    "ar": "مستشفى الرياض"
+   },
+   "area": {
+    "en": "Land 8,733 m² · Built 9,920 m²",
+    "ar": "الأرض 8,733 m²"
+   },
+   "services": {
+    "en": "Interior Re-Design",
+    "ar": "إعادة التصميم الداخلي"
+   },
+   "status": {
+    "en": "Capacity: 300 Beds",
+    "ar": "السعة: 300 سرير"
+   },
+   "excerpt": {
+    "en": "300 Beds · Interior Re-Design · Riyadh - KSA",
+    "ar": "300 سرير · إعادة التصميم الداخلي · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Riyadh Hospital",
+     "Projects Capacity 300 Beds",
+     "Land Area 8,733 m²",
+     "Total Built Area 9,920 m²",
+     "Scope Of Work Interior Re-Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى الرياض",
+     "سعة المشروع 300 سرير",
+     "مساحة الأرض 8,733 m²",
+     "مساحة الأرض المبنية 9,920 m²",
+     "نطاق العمل إعادة التصميم الداخلي",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/image-2-scaled.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/image-1-scaled.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4691.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4699.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4697.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4695.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4693.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-sajaya",
+   "title": {
+    "en": "Sajaya Medical Center",
+    "ar": "مركز سجايا الطبي"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Sajaya Medical Center",
+    "ar": "مركز سجايا الطبي"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-sajaya-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-sajaya-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-sajaya-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-sajaya-04.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-sanaya-dental",
+   "title": {
+    "en": "Sanaya Dental Care",
+    "ar": "سنايا لطب الأسنان"
+   },
+   "category": "interior",
+   "location": {
+    "en": "",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Sanaya Dental Care",
+    "ar": "سنايا لطب الأسنان"
+   },
+   "body": {
+    "en": [
+     "Service Healthcare Interior Design",
+     "Spaces Reception"
+    ],
+    "ar": [
+     "الخدمة تصميم داخلي للمنشآت الصحية",
+     "المساحات الاستقبال"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-sanaya-dental-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-sanaya-dental-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-sanaya-dental-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-int-sanaya-04.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "int-swiss-neuro",
+   "title": {
+    "en": "Swiss Rehabilitation Center-Robo clinic",
+    "ar": "سعة المشروع مركز إعادة التأهيل – عيادات إعادة التأهيل بالروبوت والعلاج الطبيعي"
+   },
+   "category": "interior",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Majd Medical Company - KSA",
+    "ar": ""
+   },
+   "area": {
+    "en": "Land 1000 m² · Built 1500 m²",
+    "ar": "الأرض 1000 m² · المبنية 1500 m²"
+   },
+   "services": {
+    "en": "Design and Supervision",
+    "ar": "تصميم واشراف"
+   },
+   "status": {
+    "en": "Capacity: Rehabilitation Center- Robotics Rehabilitation clinics and Physical therapy",
+    "ar": "السعة: مركز إعادة التأهيل – عيادات إعادة التأهيل بالروبوت والعلاج الطبيعي"
+   },
+   "excerpt": {
+    "en": "Rehabilitation Center- Robotics Rehabilitation clinics and Physical therapy · Design and Supervision · Riyadh - KSA",
+    "ar": "مركز إعادة التأهيل – عيادات إعادة التأهيل بالروبوت والعلاج الطبيعي · تصميم واشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Majd Medical Company - KSA",
+     "Projects Capacity Rehabilitation Center- Robotics Rehabilitation clinics and Physical therapy",
+     "Land Area 1000 m²",
+     "Total Built Area 1500 m²",
+     "Scope Of Work Design and Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "مساحة الأرض 1000 m²",
+     "المساحة المبنية 1500 m²",
+     "نطاق العمل تصميم واشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-swiss-neuro-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-swiss-neuro-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-int-swiss-neuro-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-3.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-4.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-5.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-6.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-7.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-P-8.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "irad-complex",
+   "title": {
+    "en": "Irad Complex",
+    "ar": "مجمع إيراد"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh, KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Irad Complex",
+    "ar": "مجمع إيراد"
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Master Planning Pre-concept and Infrastructure Design",
+    "ar": "المخطط العام (Master Plan) – مرحلة ما قبل المفهوم وتصميم البنية التحتية"
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Master Planning Pre-concept and Infrastructure Design · Riyadh, KSA",
+    "ar": "المخطط العام (Master Plan) – مرحلة ما قبل المفهوم وتصميم البنية التحتية · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Irad Complex",
+     "Sector Environmental and Energy",
+     "Plot Area 500,000 SQM",
+     "GFA 150,000 SQM",
+     "Scope Of Work Master Planning Pre-concept and Infrastructure Design",
+     "Location Riyadh, KSA"
+    ],
+    "ar": [
+     "العميل مجمع إيراد",
+     "القطاع البيئة والطاقة",
+     "مساحة الموقع 500,000 م²",
+     "المساحة الإجمالية للبناء 150,000 م²",
+     "نطاق العمل المخطط العام (Master Plan) – مرحلة ما قبل المفهوم وتصميم البنية التحتية",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-irad-complex-02-street-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-irad-complex-03-lake-road-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-irad-complex-04-water-axis-scaled-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "jouf-university-hospital-partial-operation-design",
+   "title": {
+    "en": "Jouf University Hospital – Partial Operation Design",
+    "ar": "السعة 167 سريراً"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Al Jouf Region, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "STS",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Design (Concept & Schematic Design)",
+    "ar": "تصميم (التصميم المفاهيمي والتصميم الابتدائي)"
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Design (Concept & Schematic Design) · Al Jouf Region, KSA",
+    "ar": "تصميم (التصميم المفاهيمي والتصميم الابتدائي)"
+   },
+   "body": {
+    "en": [
+     "Client STS",
+     "End User Jouf University",
+     "Location Al Jouf Region, KSA",
+     "Capacity 167 Beds",
+     "Scope Of Work Design (Concept & Schematic Design)"
+    ],
+    "ar": [
+     "نطاق العمل تصميم (التصميم المفاهيمي والتصميم الابتدائي)"
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "king-khaled-eye-specialist-hospital",
+   "title": {
+    "en": "King Khaled Eye Specialist Hospital",
+    "ar": "مستشفى الملك خالد التخصصي للعيون"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "King Khaled Eye Specialist Hospital",
+    "ar": "مستشفى الملك خالد التخصصي للعيون"
+   },
+   "area": {
+    "en": "Land 1,350 m² · Built 2,000 m²",
+    "ar": "الأرض 1,350 m²"
+   },
+   "services": {
+    "en": "Design & Supervision",
+    "ar": "تصميم وإشراف"
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Design & Supervision · Riyadh - KSA",
+    "ar": "تصميم وإشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client King Khaled Eye Specialist Hospital",
+     "Land Area 1,350 m²",
+     "Total Built Area 2,000 m²",
+     "Scope Of Work Design & Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى الملك خالد التخصصي للعيون",
+     "مساحة الأرض 1,350 m²",
+     "مساحة الأرض المبنية 2,000 m²",
+     "نطاق العمل تصميم وإشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitledss-8.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "kingdom-hospital-renovation-project",
+   "title": {
+    "en": "Kingdom Hospital Renovation Project",
+    "ar": "مشروع تجديد مستشفى المملكة"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Kingdom Hospital Renovation Project",
+    "ar": "مشروع تجديد مستشفى المملكة"
+   },
+   "area": {
+    "en": "Land 9,920 m² · Built 9,920 m²",
+    "ar": "الأرض 9,920 m²"
+   },
+   "services": {
+    "en": "Design, Supervision",
+    "ar": "تصميم وإشراف"
+   },
+   "status": {
+    "en": "Capacity: 50 Beds",
+    "ar": "السعة: 50 سرير"
+   },
+   "excerpt": {
+    "en": "50 Beds · Design, Supervision · Riyadh - KSA",
+    "ar": "50 سرير · تصميم وإشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Kingdom Hospital Renovation Project",
+     "Projects Capacity 50 Beds",
+     "Land Area 9,920 m²",
+     "Total Built Area 9,920 m²",
+     "Scope Of Work Design, Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مشروع تجديد مستشفى المملكة",
+     "سعة المشروع 50 سرير",
+     "مساحة الأرض 9,920 m²",
+     "مساحة الأرض المبنية 9,920 m²",
+     "نطاق العمل تصميم وإشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-3.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-4.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4714.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4716.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "majesty-hospital-riyadh",
+   "title": {
+    "en": "Majesty Hospital",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Design and AOR",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: 50 Beds",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "50 Beds · Design and AOR · Riyadh, KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Project Type Hospital",
+     "Projects Capacity 50 Beds",
+     "Scope Of Work Design and AOR",
+     "Location Riyadh, KSA"
+    ],
+    "ar": [
+     "تصميم مستشفى يجمع بين الطابع المعماري السلماني ومتطلبات الرعاية الصحية المعاصرة، مع التركيز على راحة المرضى."
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-majesty-hospital.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-05.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-06.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-07.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-08.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-09.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-10.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-majesty-11.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "malisa-clinics",
+   "title": {
+    "en": "MALISA Clinics",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "MALISA Clinics",
+    "ar": ""
+   },
+   "area": {
+    "en": "Built 300 m²",
+    "ar": ""
+   },
+   "services": {
+    "en": "Design and Supervision",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Design and Supervision · Riyadh, KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client MALISA Clinics",
+     "Sector cosmetic and plastic surgery",
+     "Total Built Area 300 m²",
+     "Scope Of Work Design and Supervision",
+     "Location Riyadh, KSA"
+    ],
+    "ar": []
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-3-100-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-4-100-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-malisa-clinics-02-scaled-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-5-100-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "masharef-hospital",
+   "title": {
+    "en": "Masharef Hospital",
+    "ar": "مستشفى مشارف"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Masharef Hospital",
+    "ar": "مستشفى مشارف"
+   },
+   "area": {
+    "en": "Land 3,000 m² · Built 14,000 m²",
+    "ar": "الأرض 3,000 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 50 Beds",
+    "ar": "السعة: 50 سرير"
+   },
+   "excerpt": {
+    "en": "50 Beds · Design · Riyadh - KSA",
+    "ar": "50 سرير · تصميم · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Masharef Hospital",
+     "Projects Capacity 50 Beds",
+     "Land Area 3,000 m²",
+     "Total Built Area 14,000 m²",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى مشارف",
+     "سعة المشروع 50 سرير",
+     "مساحة الأرض 3,000 m²",
+     "مساحة الأرض المبنية 14,000 m²",
+     "نطاق العمل تصميم",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-masharef-hospital-hd-scaled-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "meena-clinics-subsidiary-of-al-tawuniya",
+   "title": {
+    "en": "MEENA Clinics Subsidiary of Al Tawuniya",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "MEENA Clinics",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Project Management Consultancy, Supervision",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: 1 Medical Center and 2 Clinics: MEENA Center 2: 3,544 m², MEENA Clinic 3: 556 m², MEENA Clinic 4: 995 m²",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "1 Medical Center and 2 Clinics: MEENA Center 2: 3,544 m², MEENA Clinic 3: 556 m², MEENA Clinic 4: 995 m² · Project Management Consultancy, Supervision · Riyadh - KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client MEENA Clinics",
+     "Projects Capacity 1 Medical Center and 2 Clinics: MEENA Center 2: 3,544 m², MEENA Clinic 3: 556 m², MEENA Clinic 4: 995 m²",
+     "Scope Of Work Project Management Consultancy, Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": []
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c2_Main.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c2_01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c2_02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c2_03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c2_05.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c2_06.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c2_07.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c2_08.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c3_01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c3_02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c4_01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-meena_c4_02.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "moh-healthcare-facilities-engineering-specifications-standards",
+   "title": {
+    "en": "Update and Development of Engineering Specifications and Standards for Healthcare Facilities",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Kingdom of Saudi Arabia",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Ministry of Health – Deputy Ministry for Projects & Engineering Affairs",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Update & Development of Engineering Specifications and Standards",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Update & Development of Engineering Specifications and Standards · Kingdom of Saudi Arabia",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client Ministry of Health – Deputy Ministry for Projects & Engineering Affairs",
+     "Scope Of Work Update & Development of Engineering Specifications and Standards",
+     "Location Kingdom of Saudi Arabia"
+    ],
+    "ar": [
+     "تحويل المواصفات والمعايير الهندسية للمنشآت الصحية لدى وزارة الصحة إلى مرجعية وطنية موحدة تتوافق مع الأنظمة الوطنية والعالمية.",
+     "رفع عدد أبواب المواصفات الفنية الموحدة من 16 إلى 29 باباً، بعد أن لم يُحدَّث أغلبها منذ أكثر من 10 سنوات.",
+     "تحديث المعايير التصميمية لأقسام المنشآت الصحية، مع توحيد المرجعيات والجداول والتصنيفات وجداول الكميات.",
+     "إضافة طبقة رقمية للمستشفى الذكي (أنظمة المباني وإنترنت الأشياء، إدارة الصيانة، تحليل البيانات، الأمن السيبراني، دعم القرار بالذكاء الاصطناعي) ودمج متطلبات الاستدامة وكفاءة الطاقة.",
+     "تطوير المشروع عبر أكثر من 100 اجتماع تنسيقي مع الوزارة وكود البناء السعودي وكفاءة وإكسبرو وهيئة المحتوى المحلي وTAHPI.",
+     "حفل إنجاز المشروع والتكريم"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/moh-logo-square.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-moh-ceremony-2.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "national-blood-and-cancer-center",
+   "title": {
+    "en": "National Blood and Cancer Center",
+    "ar": "مركز أمراض الدم والأورام"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "National Blood and Cancer Center",
+    "ar": "مركز أمراض الدم والأورام"
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Re-Design & Authorities Approval of  Day Surgery Radiation Bunkers in addition to other facilities)",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: 25 Beds",
+    "ar": "السعة: 25 سرير"
+   },
+   "excerpt": {
+    "en": "25 Beds · Re-Design & Authorities Approval of  Day Surgery Radiation Bunkers in addition to other facilities) · Riyadh - KSA",
+    "ar": "25 سرير · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client National Blood and Cancer Center",
+     "Projects Capacity 25 Beds",
+     "Scope Of Work Re-Design & Authorities Approval of  Day Surgery Radiation Bunkers in addition to other facilities)",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مركز أمراض الدم والأورام",
+     "سعة المشروع 25 سرير",
+     "نطاق المشروع إعادة تصميم واعتماد الجهات المختصة لخزانات الإشعاع لجراحة اليوم الواحد بالإضافة إلى المرافق الأخرى",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Undtitled-8.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitleddd-8.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8s-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8zd.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "noya-cosmetic-clinic",
+   "title": {
+    "en": "Noya Cosmetic Clinic",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Noya Clinic",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Interior Design and Construction Supervision",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Interior Design and Construction Supervision · Riyadh, KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Project Type Cosmetic Clinic",
+     "Client Noya Clinic",
+     "Scope Of Work Interior Design and Construction Supervision",
+     "Location Riyadh, KSA"
+    ],
+    "ar": [
+     "عيادة تجميل يتميّز تصميمها بالعمق والدقة والفخامة الهادئة. يبني المفهوم ثقة المراجع عبر تنظيم فراغي واضح ونسب مدروسة وتدرّج مقصود في المساحات، فتصبح الحركة بديهية ويقود العمارة الزائر بدلاً من اللوحات الإرشادية.",
+     "اعتُمد اللون العنابي (الغارنت) لوناً محورياً للعلامة، مع الترافرتين والخشب والمعدن لإضفاء الثقل والعمق والملمس، وإضاءة ناعمة محسوبة. يشمل التصميم الاستقبال والممرات ومنطقة العمليات وغرف ما قبل العملية وما بعدها وصالة الموظفين."
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-01-reception.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-02-reception-desk.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-03-corridor-brand-wall.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-04-corridor-feature-niche.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-05-corridor-lounge.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-06-waiting-nook.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-07-surgical-scrub-zone.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-7624.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-09-pre-op-rooms.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-10-post-op-room.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-noya-clinic-11-staff-lounge.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "odwani-hospital-renovation-repurposing-supervision-jeddah",
+   "title": {
+    "en": "Odwani Hospital – Renovation & Repurposing Supervision, Jeddah",
+    "ar": "نطاق العمل الإشراف على التنفيذ"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Jeddah, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Akdital Healthcare Group",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Construction Supervision",
+    "ar": "الإشراف على التنفيذ"
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Construction Supervision · Jeddah, KSA",
+    "ar": "الإشراف على التنفيذ"
+   },
+   "body": {
+    "en": [
+     "Client Akdital Healthcare Group",
+     "Location Jeddah, KSA",
+     "Scope Of Work Construction Supervision"
+    ],
+    "ar": [
+     "نطاق العمل: الإشراف على التنفيذ."
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "outpatient-rehab-building-namar-hospital",
+   "title": {
+    "en": "Design of Outpatient & Rehab Building at Namar Hospital",
+    "ar": "تصميم العيادات الخارجية وإعادة التأهيل لمستشفى دله نمار"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Dallah Healthcare Company",
+    "ar": "مجموعة دله الصحية"
+   },
+   "area": {
+    "en": "Land 118,704 m² · Built 24,091 m²",
+    "ar": "الأرض 118,704 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 183 Clinics, 136 Beds",
+    "ar": "السعة: 183 عيادة و136 سريراً"
+   },
+   "excerpt": {
+    "en": "183 Clinics, 136 Beds · Design · Riyadh - KSA",
+    "ar": "183 عيادة و136 سريراً · تصميم · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Dallah Healthcare Company",
+     "Projects Capacity 183 Clinics, 136 Beds",
+     "Land Area 118,704 m²",
+     "Total Built Area 24,091 m²",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مجموعة دله الصحية",
+     "سعة المشروع 183 عيادة و136 سريراً",
+     "مساحة الأرض 118,704 m²",
+     "مساحة الأرض المبنية 24,091 m²",
+     "نطاق العمل تصميم",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-WhatsApp-Image-2023-11-05-at-11.35.07-1.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-WhatsApp-Image-2023-11-05-at-11.35.07-2.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "pain-management-mc",
+   "title": {
+    "en": "Pain Management (MC)",
+    "ar": "العودة إلى المشاريع"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Pain Management (MC)",
+    "ar": ""
+   },
+   "area": {
+    "en": "Land 500 m² · Built 1,803 m²",
+    "ar": ""
+   },
+   "services": {
+    "en": "Design and Supervision",
+    "ar": ""
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Design and Supervision · Riyadh, KSA",
+    "ar": "العودة إلى المشاريع"
+   },
+   "body": {
+    "en": [
+     "Client Pain Management (MC)",
+     "Land Area 500 m²",
+     "Total Built Area 1,803 m²",
+     "Scope Of Work Design and Supervision",
+     "Location Riyadh, KSA"
+    ],
+    "ar": [
+     "جولة في المشروع"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-5-copy-3-100.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-5-copy-2-100.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-3-100-2.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Artboard-2-100.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-pain-01.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-pain-02.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-pain-03.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-pain-04.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-pain-05.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-pain-06.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "residential-building-2",
+   "title": {
+    "en": "Residential Building",
+    "ar": "بناء سكني (الروضة)"
+   },
+   "category": "education",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Residential Building",
+    "ar": "بناء سكني (الروضة)"
+   },
+   "area": {
+    "en": "Land 750 m² · Built 1922 m²",
+    "ar": "الأرض 750 m²"
+   },
+   "services": {
+    "en": "Design & Supervision",
+    "ar": "تصميم وإشراف"
+   },
+   "status": {
+    "en": "Capacity: 11 Units",
+    "ar": "السعة: 11 وحدة"
+   },
+   "excerpt": {
+    "en": "11 Units · Design & Supervision · Riyadh - KSA",
+    "ar": "11 وحدة · تصميم وإشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Residential Building",
+     "Projects Capacity 11 Units",
+     "Land Area 750 m²",
+     "Total Built Area 1922 m²",
+     "Scope Of Work Design & Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل بناء سكني (الروضة)",
+     "سعة المشروع 11 وحدة",
+     "مساحة الأرض 750 m²",
+     "مساحة الأرض المبنية 1922 m²",
+     "نطاق العمل تصميم وإشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8-10.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "residential-building-3",
+   "title": {
+    "en": "Residential Building",
+    "ar": "بناء سكني (الأندلس)"
+   },
+   "category": "education",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Residential Building",
+    "ar": "بناء سكني (الأندلس)"
+   },
+   "area": {
+    "en": "Land 1375 m² · Built 3900 m²",
+    "ar": "الأرض 1375 m²"
+   },
+   "services": {
+    "en": "Design & Supervision",
+    "ar": "تصميم وإشراف"
+   },
+   "status": {
+    "en": "Capacity: 20 Units",
+    "ar": "السعة: 20 وحدة"
+   },
+   "excerpt": {
+    "en": "20 Units · Design & Supervision · Riyadh - KSA",
+    "ar": "20 وحدة · تصميم وإشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Residential Building",
+     "Projects Capacity 20 Units",
+     "Land Area 1375 m²",
+     "Total Built Area 3900 m²",
+     "Scope Of Work Design & Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل بناء سكني (الأندلس)",
+     "سعة المشروع 20 وحدة",
+     "مساحة الأرض 1375 m²",
+     "مساحة الأرض المبنية 3900 m²",
+     "نطاق العمل تصميم وإشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8-11.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "residential-building",
+   "title": {
+    "en": "Residential Building",
+    "ar": "بناء سكني (النرجس)"
+   },
+   "category": "education",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Residential Building",
+    "ar": "بناء سكني (النرجس)"
+   },
+   "area": {
+    "en": "Land 1138 m² · Built 2883 m²",
+    "ar": "الأرض 1138 m²"
+   },
+   "services": {
+    "en": "Design & Supervision",
+    "ar": "تصميم وإشراف"
+   },
+   "status": {
+    "en": "Capacity: 13 Units",
+    "ar": "السعة: 13 وحدة"
+   },
+   "excerpt": {
+    "en": "13 Units · Design & Supervision · Riyadh - KSA",
+    "ar": "13 وحدة · تصميم وإشراف · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Residential Building",
+     "Projects Capacity 13 Units",
+     "Land Area 1138 m²",
+     "Total Built Area 2883 m²",
+     "Scope Of Work Design & Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل بناء سكني (النرجس)",
+     "سعة المشروع 13 وحدة",
+     "مساحة الأرض 1138 m²",
+     "مساحة الأرض المبنية 2883 m²",
+     "نطاق العمل تصميم وإشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-8-9.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "riyadh-hospital",
+   "title": {
+    "en": "Riyadh Hospital",
+    "ar": "مستشفى الرياض"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Riyadh Hospital",
+    "ar": "مستشفى الرياض"
+   },
+   "area": {
+    "en": "Land 8,733 m² · Built 9,920 m²",
+    "ar": "الأرض 8,733 m²"
+   },
+   "services": {
+    "en": "Interior Re-Design",
+    "ar": "إعادة التصميم الداخلي"
+   },
+   "status": {
+    "en": "Capacity: 300 Beds",
+    "ar": "السعة: 300 سرير"
+   },
+   "excerpt": {
+    "en": "300 Beds · Interior Re-Design · Riyadh - KSA",
+    "ar": "300 سرير · إعادة التصميم الداخلي · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Riyadh Hospital",
+     "Projects Capacity 300 Beds",
+     "Land Area 8,733 m²",
+     "Total Built Area 9,920 m²",
+     "Scope Of Work Interior Re-Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى الرياض",
+     "سعة المشروع 300 سرير",
+     "مساحة الأرض 8,733 m²",
+     "مساحة الأرض المبنية 9,920 m²",
+     "نطاق العمل إعادة التصميم الداخلي",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4691.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4699.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4697.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4695.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-hd-4693.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "riyadh-tower-hospital",
+   "title": {
+    "en": "Riyadh Tower Hospital",
+    "ar": "مستشفى برج الرياض"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Riyadh Tower Hospital",
+    "ar": "مستشفى برج الرياض"
+   },
+   "area": {
+    "en": "Land 5,500 m² · Built 50,500 m²",
+    "ar": "الأرض 5,500 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 800 Beds",
+    "ar": "السعة: 800 سرير"
+   },
+   "excerpt": {
+    "en": "800 Beds · Design · Riyadh - KSA",
+    "ar": "800 سرير · تصميم · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Riyadh Tower Hospital",
+     "Projects Capacity 800 Beds",
+     "Land Area 5,500 m²",
+     "Total Built Area 50,500 m²",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى برج الرياض",
+     "سعة المشروع 800 سرير",
+     "مساحة الأرض 5,500 m²",
+     "مساحة الأرض المبنية 50,500 m²",
+     "نطاق العمل تصميم",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=80"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "sheikh-abdulrahman-bin-abdulaziz-al-rajhi-hospital-medical-community",
+   "title": {
+    "en": "Sheikh Abdulrahman Bin Abdulaziz Al Rajhi Hospital & Medical Community",
+    "ar": "مساحة الموقع ≈ 136,000 م²"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Asfan, Makkah Region, KSA",
+    "ar": ""
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Abdulrahman bin Abdulaziz Al Rajhi Endowments",
+    "ar": ""
+   },
+   "area": {
+    "en": "",
+    "ar": ""
+   },
+   "services": {
+    "en": "Phase 1 – Master Plan",
+    "ar": "المرحلة الأولى – المخطط العام"
+   },
+   "status": {
+    "en": "",
+    "ar": ""
+   },
+   "excerpt": {
+    "en": "Phase 1 – Master Plan · Asfan, Makkah Region, KSA",
+    "ar": "المرحلة الأولى – المخطط العام"
+   },
+   "body": {
+    "en": [
+     "Client Abdulrahman bin Abdulaziz Al Rajhi Endowments",
+     "Location Asfan, Makkah Region, KSA",
+     "Site Area ≈ 136,000 m²",
+     "Capacity 50 Beds (expandable to 150)",
+     "Scope Of Work Phase 1 – Master Plan"
+    ],
+    "ar": [
+     "السعة 50 سريراً (قابلة للتوسع إلى 150)",
+     "نطاق العمل المرحلة الأولى – المخطط العام"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-alrajhi-day-hd.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "supervision-office-for-riyadh-distribution-center",
+   "title": {
+    "en": "Supervision Office For Riyadh Distribution Center",
+    "ar": "مكتب الإشراف على مركز توزيع الرياض"
+   },
+   "category": "education",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Supervision Office For Riyadh Distribution Center",
+    "ar": "مكتب الإشراف على مشروع مركز توزيع الرياض (مستودعات الصالحية)"
+   },
+   "area": {
+    "en": "Land 1138 m² · Built 3900 m²",
+    "ar": "الأرض 1138 m²"
+   },
+   "services": {
+    "en": "Supervision",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: 34,000 Palettes",
+    "ar": "السعة: 34,000 لوحة"
+   },
+   "excerpt": {
+    "en": "34,000 Palettes · Supervision · Riyadh - KSA",
+    "ar": "34,000 لوحة · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Supervision Office For Riyadh Distribution Center",
+     "Projects Capacity 34,000 Palettes",
+     "Land Area 1138 m²",
+     "Total Built Area 3900 m²",
+     "Scope Of Work Supervision",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مكتب الإشراف على مشروع مركز توزيع الرياض (مستودعات الصالحية)",
+     "سعة المشروع 34,000 لوحة",
+     "مساحة الأرض 1138 m²",
+     "مساحة الأرض المبنية 3900 m²",
+     "نطاق المشروع إشراف",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-kfo-salehiya-warehouses-02-scaled-1.jpg"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "tabuk-hospital",
+   "title": {
+    "en": "Tabuk Hospital",
+    "ar": "مستشفى تبوك"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Tabuk - KSA",
+    "ar": "تبوك"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Tabuk Hospital",
+    "ar": "مستشفى تبوك"
+   },
+   "area": {
+    "en": "Land 6,150 m² · Built 40,500 m²",
+    "ar": "الأرض 6,150 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": "تصميم"
+   },
+   "status": {
+    "en": "Capacity: 120 Beds",
+    "ar": "السعة: 120 سرير"
+   },
+   "excerpt": {
+    "en": "120 Beds · Design · Tabuk - KSA",
+    "ar": "120 سرير · تصميم · تبوك"
+   },
+   "body": {
+    "en": [
+     "Client Tabuk Hospital",
+     "Projects Capacity 120 Beds",
+     "Land Area 6,150 m²",
+     "Total Built Area 40,500 m²",
+     "Scope Of Work Design",
+     "Location Tabuk - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى تبوك",
+     "سعة المشروع 120 سرير",
+     "مساحة الأرض 6,150 m²",
+     "مساحة الأرض المبنية 40,500 m²",
+     "نطاق العمل تصميم",
+     "الموقع تبوك"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitledd-8-1.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlded-8.png",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-82.png"
+   ],
+   "featured": false
+  },
+  {
+   "slug": "thuriah-specialized-ivf-hospital",
+   "title": {
+    "en": "Thuriah Specialized IVF Hospital",
+    "ar": "مستشفى ذرية التخصصي"
+   },
+   "category": "healthcare",
+   "location": {
+    "en": "Riyadh - KSA",
+    "ar": "الرياض"
+   },
+   "year": {
+    "en": "",
+    "ar": ""
+   },
+   "client": {
+    "en": "Thuriah Specialized IVF Hospital",
+    "ar": "مستشفى ذرية التخصصي"
+   },
+   "area": {
+    "en": "Land 2,400 m² · Built 7,920 m²",
+    "ar": "الأرض 2,400 m²"
+   },
+   "services": {
+    "en": "Design",
+    "ar": ""
+   },
+   "status": {
+    "en": "Capacity: 20 Beds",
+    "ar": "السعة: 20 سرير"
+   },
+   "excerpt": {
+    "en": "20 Beds · Design · Riyadh - KSA",
+    "ar": "20 سرير · الرياض"
+   },
+   "body": {
+    "en": [
+     "Client Thuriah Specialized IVF Hospital​",
+     "Projects Capacity 20 Beds",
+     "Land Area 2,400 m²",
+     "Total Built Area 7,920 m²",
+     "Scope Of Work Design",
+     "Location Riyadh - KSA"
+    ],
+    "ar": [
+     "العميل مستشفى ذرية التخصصي",
+     "سعة المشروع 20 سرير",
+     "مساحة الأرض 2,400 m²",
+     "مساحة الأرض المبنية 7,920 m²",
+     "نطاق المشروع تصميم",
+     "الموقع الرياض"
+    ]
+   },
+   "images": [
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitlexxd-8.jpg",
+    "https://kfoco.com/wp-content/uploads/2026/11/kfo-wm-Untitled-d8.jpg"
+   ],
+   "featured": false
+  }
+ ],
+ "clients": [
+  {
+   "id": "wp-09-0",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-f4302b07017c-1-1.jpg",
+   "name": "TODO: Client logo 1"
+  },
+  {
+   "id": "wp-09-1",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-f4302b0s7017c-1.jpg",
+   "name": "TODO: Client logo 2"
+  },
+  {
+   "id": "wp-09-2",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-f4302sb07017c-1.jpg",
+   "name": "TODO: Client logo 3"
+  },
+  {
+   "id": "wp-09-3",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4ez-f4302b07017c-1.jpg",
+   "name": "TODO: Client logo 4"
+  },
+  {
+   "id": "wp-09-4",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4ess-f4302b07017c-1.jpg",
+   "name": "TODO: Client logo 5"
+  },
+  {
+   "id": "wp-09-5",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-f4302db07017c-1.jpg",
+   "name": "TODO: Client logo 6"
+  },
+  {
+   "id": "wp-09-6",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-f43s02b07017c-1.jpg",
+   "name": "TODO: Client logo 7"
+  },
+  {
+   "id": "wp-09-7",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-f4302bs07017c-1.jpg",
+   "name": "TODO: Client logo 8"
+  },
+  {
+   "id": "wp-09-8",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4es-f4302b07017c-1.jpg",
+   "name": "TODO: Client logo 9"
+  },
+  {
+   "id": "wp-09-9",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-f430ss2b07017c-1.jpg",
+   "name": "TODO: Client logo 10"
+  },
+  {
+   "id": "wp-09-10",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-df4302b07017c-1.jpg",
+   "name": "TODO: Client logo 11"
+  },
+  {
+   "id": "wp-09-11",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/434.jpg",
+   "name": "TODO: Client logo 12"
+  },
+  {
+   "id": "wp-09-12",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/3232.jpg",
+   "name": "TODO: Client logo 13"
+  },
+  {
+   "id": "wp-09-13",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/323.jpg",
+   "name": "TODO: Client logo 14"
+  },
+  {
+   "id": "wp-09-14",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/212.jpg",
+   "name": "TODO: Client logo 15"
+  },
+  {
+   "id": "wp-09-15",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/221.jpg",
+   "name": "TODO: Client logo 16"
+  },
+  {
+   "id": "wp-09-16",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/22221.jpg",
+   "name": "TODO: Client logo 17"
+  },
+  {
+   "id": "wp-09-17",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/222.jpg",
+   "name": "TODO: Client logo 18"
+  },
+  {
+   "id": "wp-09-18",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/111.jpg",
+   "name": "TODO: Client logo 19"
+  },
+  {
+   "id": "wp-09-19",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/22.jpg",
+   "name": "TODO: Client logo 20"
+  },
+  {
+   "id": "wp-09-20",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/11.jpg",
+   "name": "TODO: Client logo 21"
+  },
+  {
+   "id": "wp-09-21",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/5.jpg",
+   "name": "TODO: Client logo 22"
+  },
+  {
+   "id": "wp-09-22",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/4.jpg",
+   "name": "TODO: Client logo 23"
+  },
+  {
+   "id": "wp-09-23",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/3.jpg",
+   "name": "TODO: Client logo 24"
+  },
+  {
+   "id": "wp-09-24",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/1.jpg",
+   "name": "TODO: Client logo 25"
+  },
+  {
+   "id": "wp-09-25",
+   "src": "https://kfoco.com/wp-content/uploads/2023/09/d3-8e4e-f4302b07017c-1-2.jpg",
+   "name": "TODO: Client logo 26"
+  },
+  {
+   "id": "wp-x-2023/10/WhatsApp-Image-2023-10-10-at-13.11.48.jpg",
+   "src": "https://kfoco.com/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-10-at-13.11.48.jpg",
+   "name": "TODO: Client logo 27"
+  },
+  {
+   "id": "wp-x-2023/11/d3-8e4e-f43s02b07017c-1.jpg",
+   "src": "https://kfoco.com/wp-content/uploads/2023/11/d3-8e4e-f43s02b07017c-1.jpg",
+   "name": "TODO: Client logo 28"
+  },
+  {
+   "id": "wp-x-2023/11/ss.jpg",
+   "src": "https://kfoco.com/wp-content/uploads/2023/11/ss.jpg",
+   "name": "TODO: Client logo 29"
+  },
+  {
+   "id": "wp-x-2025/02/sfile.jpg",
+   "src": "https://kfoco.com/wp-content/uploads/2025/02/sfile.jpg",
+   "name": "TODO: Client logo 30"
+  }
+ ],
+ "team": [
+  {
+   "name": "Eng. Khaled Alfagih",
+   "role": "Founder & CEO",
+   "bio": [
+    "Khaled Alfagih AIA has a vast experience of over 25 years with highly proficient record in almost all aspects of design and construction.",
+    "Khaled has played a leading role in a number of healthcare projects and engineering consultancy in the kingdom.",
+    "He has a marvelous record of conducting numerous projects for Dallah health care including their pharmaceutical and medical facilities besides other well-respected clients."
+   ],
+   "email": "ceo@kfoco.com"
+  },
+  {
+   "name": "Fuad Aldenah",
+   "role": "Project Manager",
+   "certificate": "BSc Mechanical Engineering - Riyadh University",
+   "experience": "37 Year",
+   "projects": [
+    "Dallah Complex Al-Nakheel District - Project Manager: Dallah Parking, Dallah Pedia Hospital, Dallah North Clinics Complex, Dallah Internal Clinics Renovation, Dallah Link Bridge",
+    "Dr. Mohammad Al-Fagih Hospital - Project Manager",
+    "Dr. Mohammed Alfagih Hospital - Supervision",
+    "Dallah Hospital – North Clinics",
+    "Dallah Hospital – Clinics Renovation",
+    "Dallah Hospital - Link Bridge",
+    "Dallah Hospital - Pedia",
+    "Dallah Hospital – OB. GYN",
+    "Dallah Hospital - Car Parking",
+    "King Khaled Eye Specialist Hospital Main Building"
+   ],
+   "previous": [
+    "National Guard Ministry - M&O department 29 years: Mechanical Super intendant, Work Control Manager, Studies Engineer",
+    "Rashid Engineering - 4 years: King Khalid Specialist Eye Hospital, King Fasil Specialist Hospital, Palaces Complex at Al-Qaseem District"
+   ],
+   "email": "fuad@kfoco.com"
+  },
+  {
+   "name": "Husam Riyad",
+   "role": "Senior Structural Engineer",
+   "experience": "27 Year",
+   "projects": [
+    "Dr. Mohammed Alfagih Hospital - Supervision"
+   ],
+   "email": "husam@kfoco.com"
+  },
+  {
+   "name": "Bassil Al Sahli",
+   "role": "Assistant Engineer",
+   "experience": "17 Year",
+   "email": "basil@kfoco.com"
+  },
+  {
+   "name": "Amjad Tannineh",
+   "role": "Project Manager",
+   "experience": "13 Year",
+   "projects": [
+    "Dr. Mohammed Alfagih Hospital - Supervision",
+    "Almaarefa University",
+    "Dallah Hospital – Namar",
+    "Medical Facilities Development in El-Ehssa",
+    "Dr. Mohammed Alfagih Hospital - Design",
+    "Dallah Hospital – North Clinics",
+    "Dallah Hospital – West Expansion",
+    "Dallah Hospital – South Expansion",
+    "Dallah Hospital – Clinics Renovation",
+    "Almaarefa PY",
+    "Sulaiman Al Rajhi College",
+    "Dallah Hospital - Link Bridge"
+   ],
+   "email": "amjad@kfoco.com"
+  },
+  {
+   "name": "Elbara Abdullah",
+   "role": "Mechanical Engineer",
+   "experience": "12 Year",
+   "email": "elbara@kfoco.com"
+  },
+  {
+   "name": "Alvin Sabren",
+   "role": "Electrical Engineer",
+   "experience": "12 Year",
+   "email": "alvin@kfoco.com"
+  },
+  {
+   "name": "Saad Aldumaykh",
+   "role": "HR Manager",
+   "experience": "8 Year",
+   "email": "Saad@kfoco.com"
+  },
+  {
+   "name": "Wael Abdullfatah",
+   "role": "Project Scheduler",
+   "experience": "7 Year",
+   "email": "wael@kfoco.com"
+  },
+  {
+   "name": "Abdullah Bureykah",
+   "role": "Architectural Engineer",
+   "experience": "7 Year",
+   "email": "abdullah@kfoco.com"
+  },
+  {
+   "name": "Suliman Alfagih",
+   "role": "Finance and Admin Manager",
+   "experience": "5 Year",
+   "email": "suliman@kfoco.com"
+  },
+  {
+   "name": "Abdullah Alyaheya",
+   "role": "Logistics Assistant",
+   "experience": "3 Year",
+   "email": "abdullah@kfoco.com"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "healthcare-planning-basics",
+   "title": {
+    "en": "Principles of Healthcare Facility Planning",
+    "ar": "مبادئ تخطيط المرافق الصحية"
+   },
+   "category": {
+    "en": "Healthcare",
+    "ar": "الرعاية الصحية"
+   },
+   "excerpt": {
+    "en": "TODO: replace with a real Knowledge Center article summary. Key considerations for planning hospitals that serve patients, staff and operations.",
+    "ar": "TODO: استبدال بملخص حقيقي من مركز المعرفة. أبرز الاعتبارات في تخطيط المستشفيات التي تخدم المرضى والكوادر والتشغيل."
+   },
+   "date": "2025-11-12",
+   "readTime": {
+    "en": "6 min read",
+    "ar": "قراءة 6 دقائق"
+   },
+   "type": "article"
+  },
+  {
+   "slug": "design-supervision-checklist",
+   "title": {
+    "en": "Execution Supervision: A Practical Checklist",
+    "ar": "الإشراف على التنفيذ: قائمة عملية"
+   },
+   "category": {
+    "en": "Supervision",
+    "ar": "الإشراف"
+   },
+   "excerpt": {
+    "en": "TODO: replace with a real article. What to inspect at each stage of construction to protect design intent and quality.",
+    "ar": "TODO: استبدال بمقال حقيقي. ما ينبغي فحصه في كل مرحلة من مراحل التنفيذ للحفاظ على جودة التصميم."
+   },
+   "date": "2025-09-30",
+   "readTime": {
+    "en": "5 min read",
+    "ar": "قراءة 5 دقائق"
+   },
+   "type": "article"
+  },
+  {
+   "slug": "company-profile-2025",
+   "title": {
+    "en": "Company Profile 2025 (PDF)",
+    "ar": "الملف التعريفي للشركة 2025 (PDF)"
+   },
+   "category": {
+    "en": "Downloads",
+    "ar": "التحميلات"
+   },
+   "excerpt": {
+    "en": "Download the official KFO company profile — experience, qualifications and selected projects.",
+    "ar": "تحميل الملف التعريفي الرسمي للمكتب — الخبرة والتأهيلات ومشاريع مختارة."
+   },
+   "date": "2025-02-01",
+   "readTime": {
+    "en": "PDF",
+    "ar": "PDF"
+   },
+   "type": "download"
+  },
+  {
+   "slug": "knowledge-transfer-in-consultancy",
+   "title": {
+    "en": "Knowledge Transfer in Engineering Consultancy",
+    "ar": "نقل المعرفة في الاستشارات الهندسية"
+   },
+   "category": {
+    "en": "Practice",
+    "ar": "الممارسة المهنية"
+   },
+   "excerpt": {
+    "en": "TODO: replace with a real article. How structured knowledge transfer strengthens project teams and client relationships.",
+    "ar": "TODO: استبدال بمقال حقيقي. كيف يعزز نقل المعرفة المنظم قدرات فرق المشروع وعلاقات العملاء."
+   },
+   "date": "2025-06-18",
+   "readTime": {
+    "en": "7 min read",
+    "ar": "قراءة 7 دقائق"
+   },
+   "type": "article"
+  }
+ ],
+ "events": [
+  {
+   "slug": "exhibition-of-college-of-architecture-ksu",
+   "title": {
+    "en": "EXHIBITION OF COLLEGE OF ARCHITECTURE – KSU",
+    "ar": "معرض كلية الهندسة المعمارية – جامعة الملك سعود"
+   },
+   "excerpt": {
+    "en": "Khalid Al Fagih Engineering Consultancy (KFO) invited Stuff And students for attending an Architectural Exhibition. The exhibition was focused on design and planning of healthcare buildings in the views and light of professionals.",
+    "ar": "قامت شركة خالد الفقيه للاستشارات الهندسية (KFO) بدعوة Stuff والطلاب لحضور معرض معماري. وركز المعرض على تصميم وتخطيط مباني الرعاية الصحية في ضوء آراء المتخصصين."
+   },
+   "body": {
+    "en": [
+     "Khalid Al Fagih Engineering Consultancy (KFO) invited Stuff And students for attending an Architectural Exhibition. The exhibition was focused on design and planning of healthcare buildings in the views and light of professionals.",
+     "The venue of the exhibition was College of Architecture – KSU scheduled  from 14 th October, 2018 till 18 th October, 2018.",
+     "The fanatical topics were: Healthcare Buildings “Design and Planning”",
+     "in the views of and lighted by Eng. Khaled Alfagih (General Manager) Khaled Alfagih Engineering Consultancy Healthcare Buildings",
+     "Architects Division – Master’s Program in Design Healthcare Buildings",
+     "in the views of and lighted",
+     "by Dr. Ziad Al-Suaidan",
+     "(Professor of Architecture at IAU – Dammam)",
+     "Khaled Alfagih Engineering Consultancy",
+     "Site Visit",
+     "In addition to the above, we also invited all for a site visit at Dr. Mohammed Alfagih Hospital – Riyadh, KSA."
+    ],
+    "ar": [
+     "قامت شركة خالد الفقيه للاستشارات الهندسية (KFO) بدعوة Stuff والطلاب لحضور معرض معماري. وركز المعرض على تصميم وتخطيط مباني الرعاية الصحية في ضوء آراء المتخصصين.",
+     "مكان إقامة المعرض هو كلية الهندسة المعمارية – جامعة الملك سعود المقرر في الفترة من 14 أكتوبر 2018 حتى 18 أكتوبر 2018.",
+     "وكانت المواضيع المتعصبة هي:  مباني الرعاية الصحية “التصميم والتخطيط”",
+     "في مناظر وأضاء المهندس. خالد الفقيه (المدير العام) خالد الفقيه للاستشارات الهندسية مباني الرعاية الصحية",
+     "قسم المهندسين المعماريين – برنامج الماجستير في تصميم مباني الرعاية الصحية",
+     "في مناظر ومضاءة",
+     "بقلم الدكتور زياد السويدان",
+     "(أستاذ الهندسة المعمارية في الجامعة الإسلامية – الدمام)",
+     "خالد الفقيه للإستشارات الهندسية",
+     "بالإضافة إلى ما سبق، قمنا أيضًا بدعوة الجميع لزيارة موقع مستشفى الدكتور محمد الفقيه – الرياض، المملكة العربية السعودية."
+    ]
+   },
+   "date": "2018-10-14",
+   "place": {
+    "en": "College of Architecture – KSU",
+    "ar": "كلية الهندسة المعمارية – جامعة الملك سعود"
+   },
+   "image": "https://kfoco.com/wp-content/uploads/2023/10/2954c-001.jpg",
+   "gallery": [
+    "https://kfoco.com/wp-content/uploads/2023/10/63a65-002.jpg",
+    "https://kfoco.com/wp-content/uploads/2023/10/a3faf-003.jpg",
+    "https://kfoco.com/wp-content/uploads/2023/10/6a173-004.jpg",
+    "https://kfoco.com/wp-content/uploads/2023/10/f10d2-005.jpg"
+   ]
+  },
+  {
+   "slug": "exhibition-of-college-of-engineering-dau",
+   "title": {
+    "en": "EXHIBITION OF COLLEGE OF ENGINEERING - DAU",
+    "ar": "معرض كلية الهندسة - دار العلوم"
+   },
+   "excerpt": {
+    "en": "Khalid A Fagih Engineering Consultancy (KFO) invited Stuff And students for attending an Architectural Exhibition. The exhibition was focused on design and planning of healthcare buildings in the views and light of professionals.",
+    "ar": "قام خالد الفقيه للاستشارات الهندسية (KFO) بدعوة شركة Stuff والطلاب لحضور معرض معماري. وركز المعرض على تصميم وتخطيط مباني الرعاية الصحية في ضوء آراء المتخصصين."
+   },
+   "body": {
+    "en": [
+     "Khalid A Fagih Engineering Consultancy (KFO) invited Stuff And students for attending an Architectural Exhibition. The exhibition was focused on design and planning of healthcare buildings in the views and light of professionals.",
+     "The venue of the exhibition was College of Engineering – Dar Al Oloom university scheduled  from 8th November, 2018 till 15th November, 2018."
+    ],
+    "ar": [
+     "قام خالد الفقيه للاستشارات الهندسية (KFO) بدعوة شركة Stuff والطلاب لحضور معرض معماري. وركز المعرض على تصميم وتخطيط مباني الرعاية الصحية في ضوء آراء المتخصصين.",
+     "مكان انعقاد المعرض هو كلية الهندسة – جامعة دار العلوم والمقرر في الفترة من 8 نوفمبر 2018 حتى 15 نوفمبر 2018."
+    ]
+   },
+   "date": "2018-11-08",
+   "place": {
+    "en": "College of Engineering – Dar Al Oloom University",
+    "ar": "كلية الهندسة – جامعة دار العلوم"
+   },
+   "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=2000&q=80",
+   "gallery": []
+  },
+  {
+   "slug": "form-of-design-planning-and-furnishing-hos-and-facility",
+   "title": {
+    "en": "Form of Design Planning and Furnishing Hositals and Facility",
+    "ar": "نموذج تخطيط التصميم وتأثيث المستشفيات والمرافق"
+   },
+   "excerpt": {
+    "en": "Form of Design, Planning and Furnishing Hospitals and Facility Management:",
+    "ar": "نموذج تصميم وتخطيط وتأثيث المستشفيات وإدارة المرافق:"
+   },
+   "body": {
+    "en": [
+     "Form of Design, Planning and Furnishing Hospitals and Facility Management:",
+     "Title: Design Influence on Effective Operation and Facility Management of Health Care Buildings.",
+     "Under Sponsership of Eastren Health Cluster.",
+     "team members",
+     "Eng. Khaled Alfagih",
+     "Saad Saqer Aldumaykh"
+    ],
+    "ar": [
+     "نموذج تصميم وتخطيط وتأثيث المستشفيات وإدارة المرافق:",
+     "العنوان: تأثير التصميم على التشغيل الفعال وإدارة المرافق لمباني الرعاية الصحية.",
+     "تحت رعاية مجموعة الصحة الشرقية.",
+     "أعضاء الفريق",
+     "م. خالد الفقيه",
+     "سعد صقر الدميخ"
+    ]
+   },
+   "date": "2023-10-02",
+   "place": {
+    "en": "",
+    "ar": ""
+   },
+   "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=2000&q=80",
+   "gallery": []
+  },
+  {
+   "slug": "future-health-projects-forum",
+   "title": {
+    "en": "Future Health Projects Forum",
+    "ar": "منتدى المشاريع الصحية المستقبلية"
+   },
+   "excerpt": {
+    "en": "Future of Health Projects Forum, under the patronage of His Royal Highness Prince Dr. Faisal bin Mishal, Emir of the Qassim Region, by participating in a workshop entitled: The Future of Health Projects presented by Engineer Khaled Al-Faqih",
+    "ar": "ملتقى مستقبل المشاريع الصحية برعاية صاحب السمو الملكي الأمير الدكتور فيصل بن مشعل أمير منطقة القصيم من خلال المشاركة في ورشة عمل بعنوان: مستقبل المشاريع الصحية يقدمها المهندس خالد الفقيه"
+   },
+   "body": {
+    "en": [
+     "Future of Health Projects Forum, under the patronage of His Royal Highness Prince Dr. Faisal bin Mishal, Emir of the Qassim Region, by participating in a workshop entitled: The Future of Health Projects presented by Engineer Khaled Al-Faqih"
+    ],
+    "ar": [
+     "ملتقى مستقبل المشاريع الصحية برعاية صاحب السمو الملكي الأمير الدكتور فيصل بن مشعل أمير منطقة القصيم من خلال المشاركة في ورشة عمل بعنوان: مستقبل المشاريع الصحية يقدمها المهندس خالد الفقيه"
+    ]
+   },
+   "date": "2023-10-01",
+   "place": {
+    "en": "Qassim Region",
+    "ar": "منطقة القصيم"
+   },
+   "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=2000&q=80",
+   "gallery": []
+  },
+  {
+   "slug": "kfo-participation-in-saudi-hospital-design-build-expo-24-27-february-2025",
+   "title": {
+    "en": "KFO Participation in Saudi Hospital Design & Build Expo | 24 – 27 February 2025",
+    "ar": "من مشاركة شركة خالد الفقيه للاستشارات الهندسية في معرض تصميم وبناء المستشفيات السعودي - فبراير"
+   },
+   "excerpt": {
+    "en": "KFO Participation in Saudi Hospital Design & Build Expo | 24 – 27 February 2025",
+    "ar": "من مشاركة شركة خالد الفقيه للاستشارات الهندسية في معرض تصميم وبناء المستشفيات السعودي - فبراير"
+   },
+   "body": {
+    "en": [
+     "KFO Participation in Saudi Hospital Design & Build Expo | 24 – 27 February 2025"
+    ],
+    "ar": [
+     "من مشاركة شركة خالد الفقيه للاستشارات الهندسية في معرض تصميم وبناء المستشفيات السعودي - فبراير"
+    ]
+   },
+   "date": "2025-02-24",
+   "place": {
+    "en": "Saudi Hospital Design & Build Expo",
+    "ar": "معرض تصميم وبناء المستشفيات السعودي"
+   },
+   "image": "https://kfoco.com/wp-content/uploads/2025/03/admin-ajax-8.jpeg",
+   "gallery": []
+  },
+  {
+   "slug": "principles-of-hospital-design",
+   "title": {
+    "en": "Exhibition of College of Architecture – KSU",
+    "ar": "معرض كلية الهندسة المعمارية – جامعة الملك سعود"
+   },
+   "excerpt": {
+    "en": "This event was organized by KFO in cooperation with the Directorate of Health Affairs in Riyadh and Omran Society. It started with the speech of Dr. Abdul Aziz Al Dosari, Chairman of the Saudi Society for Architect Sciences.",
+    "ar": "وقد نظمت هذه الفعالية منظمة KFO بالتعاون مع مديرية الشؤون الصحية بالرياض وجمعية عمران. بدأت بكلمة الدكتور عبد العزيز الدوسري رئيس الجمعية السعودية للعلوم المعمارية."
+   },
+   "body": {
+    "en": [
+     "This event was organized by KFO in cooperation with the Directorate of Health Affairs in Riyadh and Omran Society. It started with the speech of Dr. Abdul Aziz Al Dosari, Chairman of the Saudi Society for Architect Sciences.",
+     "The first Topic in the workshop (principles and foundations of hospital design) was presented by Eng. Khaled Al-Nasser, Deputy Director of the Health Buildings Division at Omran Society.",
+     "The second Topic of the workshop was a lecture titled (principles and foundations of hospital design) presented by Eng. Khaled Al Faqih, G.M. of KFO."
+    ],
+    "ar": [
+     "وقد نظمت هذه الفعالية منظمة KFO بالتعاون مع مديرية الشؤون الصحية بالرياض وجمعية عمران. بدأت بكلمة الدكتور عبد العزيز الدوسري رئيس الجمعية السعودية للعلوم المعمارية.",
+     "وكان الموضوع الأول في الورشة (مبادئ وأسس تصميم المستشفيات) قدمه م. خالد الناصر نائب مدير قسم المباني الصحية بجمعية عمران.",
+     "أما الموضوع الثاني للورشة فكان محاضرة بعنوان (مبادئ وأسس تصميم المستشفيات) قدمها المهندس خالد الفقيه، مدير عام. من مطار كيه إف أو."
+    ]
+   },
+   "date": "2023-09-30",
+   "place": {
+    "en": "Directorate of Health Affairs, Riyadh",
+    "ar": "مديرية الشؤون الصحية بالرياض"
+   },
+   "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=2000&q=80",
+   "gallery": []
+  },
+  {
+   "slug": "symposium-on-modern-trends-in-hospital-construction",
+   "title": {
+    "en": "Symposium on Modern Trends in Hospital Construction",
+    "ar": "ندوة الاتجاهات الحديثة في بناء المستشفيات"
+   },
+   "excerpt": {
+    "en": "A symposium on modern trends in hospital construction is a seminar organized by Umm Al-Qura University, represented by the Faculty of Engineering and Islamic Architecture in cooperation with the Omran Society",
+    "ar": "ندوة الاتجاهات الحديثة في بناء المستشفيات هي ندوة تنظمها جامعة أم القرى ممثلة بكلية الهندسة والعمارة الإسلامية بالتعاون مع جمعية العمران"
+   },
+   "body": {
+    "en": [
+     "A symposium on modern trends in hospital construction is a seminar organized by Umm Al-Qura University, represented by the Faculty of Engineering and Islamic Architecture in cooperation with the Omran Society",
+     "On Sunday, February 17, 2019",
+     "Dr. Ziad Al-Suwaidan participated in this symposium with a speech entitled “Introduction to Hospital Design”",
+     "Eng. Khaled Al Faqih, General Manager of Khaled Al Faqih Engineering Consulting Office, also participated in a speech entitled “Foundations of Hospital Design”"
+    ],
+    "ar": [
+     "ندوة الاتجاهات الحديثة في بناء المستشفيات هي ندوة تنظمها جامعة أم القرى ممثلة بكلية الهندسة والعمارة الإسلامية بالتعاون مع جمعية العمران",
+     "يوم الأحد الموافق 17 فبراير 2019م",
+     "وقد شارك الدكتور زياد السويدان في هذه الندوة بكلمة بعنوان “مقدمة في تصميم المستشفيات”",
+     "م. كما شارك خالد الفقيه مدير عام مكتب خالد الفقيه للاستشارات الهندسية بكلمة بعنوان “أسس تصميم المستشفيات”"
+    ]
+   },
+   "date": "2019-02-17",
+   "place": {
+    "en": "Umm Al-Qura University",
+    "ar": "جامعة أم القرى"
+   },
+   "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=2000&q=80",
+   "gallery": []
+  }
+ ],
+ "services": [
+  {
+   "id": "planning",
+   "number": "01",
+   "title": {
+    "en": "Planning",
+    "ar": "التخطيط"
+   },
+   "description": {
+    "en": "Feasibility studies, master planning and functional briefs that translate the client vision into a clear, buildable framework.",
+    "ar": "دراسات الجدوى والتخطيط العام والبرامج الوظيفية التي تحوّل رؤية العميل إلى إطار عملي واضح قابل للتنفيذ."
+   }
+  },
+  {
+   "id": "expert-engineers",
+   "number": "02",
+   "title": {
+    "en": "Expert Engineers",
+    "ar": "المهندسون الخبراء"
+   },
+   "description": {
+    "en": "A multidisciplinary team of senior engineers with deep healthcare and building expertise, working as one integrated unit.",
+    "ar": "فريق متعدد التخصصات من المهندسين ذوي الخبرة العميقة في المرافق الصحية والمباني، يعمل كوحدة متكاملة."
+   }
+  },
+  {
+   "id": "renovation",
+   "number": "03",
+   "title": {
+    "en": "Renovation",
+    "ar": "التجديد والتطوير"
+   },
+   "description": {
+    "en": "Expansion, rehabilitation and modernization of existing facilities — planned to keep operations running and value growing.",
+    "ar": "التوسعة والتأهيل وتحديث المرافق القائمة — بتخطيط يحافظ على استمرارية التشغيل ويضيف قيمة للمستثمر."
+   }
+  },
+  {
+   "id": "designing-supervision",
+   "number": "04",
+   "title": {
+    "en": "Designing & Supervision",
+    "ar": "التصميم والإشراف"
+   },
+   "description": {
+    "en": "Architecture and engineering design, execution supervision and project management — from first sketch to handover.",
+    "ar": "التصميم المعماري والهندسي، والإشراف على التنفيذ، وإدارة المشاريع — من الرسم الأول حتى التسليم."
+   }
+  }
+ ],
+ "serviceList": [
+  {
+   "id": "engineering-consultancy",
+   "number": "01",
+   "title": {
+    "en": "Engineering Consultancy",
+    "ar": "الاستشارات الهندسية"
+   },
+   "description": {
+    "en": "Independent technical advice and feasibility studies that guide sound project decisions.",
+    "ar": "استشارات فنية مستقلة ودراسات جدوى تدعم اتخاذ قرارات المشروع."
+   }
+  },
+  {
+   "id": "construction-supervision",
+   "number": "02",
+   "title": {
+    "en": "Construction Supervision",
+    "ar": "الإشراف على التنفيذ"
+   },
+   "description": {
+    "en": "On-site supervision that keeps the works aligned with approved designs, quality and schedule.",
+    "ar": "إشراف ميداني يضمن مطابقة الأعمال للتصاميم المعتمدة والجودة والجدول الزمني."
+   }
+  },
+  {
+   "id": "design-services",
+   "number": "03",
+   "title": {
+    "en": "Design Services",
+    "ar": "خدمات التصميم"
+   },
+   "description": {
+    "en": "Integrated multidisciplinary design, from concept through tender and construction documents.",
+    "ar": "تصميم متكامل متعدد التخصصات من المفهوم حتى مستندات الطرح والتنفيذ."
+   }
+  },
+  {
+   "id": "project-management",
+   "number": "04",
+   "title": {
+    "en": "Project Management",
+    "ar": "إدارة المشروع"
+   },
+   "description": {
+    "en": "Planning, cost and schedule control, and coordination from inception to handover.",
+    "ar": "تخطيط ومتابعة للتكلفة والجدول الزمني وتنسيق شامل حتى التسليم."
+   }
+  },
+  {
+   "id": "architectural-design",
+   "number": "05",
+   "title": {
+    "en": "Architectural Design",
+    "ar": "التصميم المعماري"
+   },
+   "description": {
+    "en": "Functional, code-compliant architecture tailored to healthcare and other facilities.",
+    "ar": "تصاميم معمارية وظيفية مطابقة للاشتراطات للمنشآت الصحية وغيرها."
+   }
+  },
+  {
+   "id": "medical-planning",
+   "number": "06",
+   "title": {
+    "en": "Medical Planning",
+    "ar": "تخطيط الرعاية الصحية"
+   },
+   "description": {
+    "en": "Space programming and clinical workflow planning for efficient healthcare facilities.",
+    "ar": "برمجة المساحات وتخطيط المسارات السريرية لمنشآت صحية أعلى كفاءة."
+   }
+  },
+  {
+   "id": "interior-design",
+   "number": "07",
+   "title": {
+    "en": "Interior Design",
+    "ar": "التصميم الداخلي"
+   },
+   "description": {
+    "en": "Practical, healing interiors for healthcare environments, including finishes and furniture.",
+    "ar": "تصميم داخلي عملي يدعم بيئة العلاج ويشمل التشطيبات والأثاث."
+   }
+  },
+  {
+   "id": "repurposing-renovation",
+   "number": "08",
+   "title": {
+    "en": "Repurposing & Renovation",
+    "ar": "التجديد وإعادة الاستخدام"
+   },
+   "description": {
+    "en": "Upgrading and converting existing buildings to new uses with minimal disruption.",
+    "ar": "تطوير المباني القائمة وتحويل استخدامها بأقل تعطيل ممكن."
+   }
+  }
+ ],
+ "processSteps": [
+  {
+   "id": "plan",
+   "number": "01",
+   "title": {
+    "en": "Planning",
+    "ar": "التخطيط"
+   },
+   "description": {
+    "en": "Understanding requirements, studying the site and defining the functional program.",
+    "ar": "فهم المتطلبات، ودراسة الموقع، وتحديد البرنامج الوظيفي."
+   }
+  },
+  {
+   "id": "design",
+   "number": "02",
+   "title": {
+    "en": "Design",
+    "ar": "التصميم"
+   },
+   "description": {
+    "en": "Concept through detailed design, coordinated across all engineering disciplines.",
+    "ar": "من الفكرة إلى التصميم التفصيلي، بتنسيق كامل بين التخصصات الهندسية."
+   }
+  },
+  {
+   "id": "supervision",
+   "number": "03",
+   "title": {
+    "en": "Supervision",
+    "ar": "الإشراف"
+   },
+   "description": {
+    "en": "Execution supervision that protects design quality on site, step by step.",
+    "ar": "إشراف على التنفيذ يحافظ على جودة التصميم في الموقع، خطوة بخطوة."
+   }
+  },
+  {
+   "id": "handover",
+   "number": "04",
+   "title": {
+    "en": "Handover",
+    "ar": "التسليم"
+   },
+   "description": {
+    "en": "Closing out documentation and delivering a project ready for operation.",
+    "ar": "استكمال الوثائق وتسليم مشروع جاهز للتشغيل."
+   }
+  }
+ ],
+ "stats": [
+  {
+   "id": "balady",
+   "value": 2,
+   "suffix": {
+    "en": "nd",
+    "ar": ""
+   },
+   "label": {
+    "en": "Balady Classification",
+    "ar": "تصنيف بلدي"
+   },
+   "isOrdinal": true
+  },
+  {
+   "id": "clients",
+   "value": 35,
+   "suffix": {
+    "en": "+",
+    "ar": "+"
+   },
+   "label": {
+    "en": "Satisfied Clients",
+    "ar": "عميل راضٍ"
+   }
+  },
+  {
+   "id": "years",
+   "value": 29,
+   "suffix": {
+    "en": "+",
+    "ar": "+"
+   },
+   "label": {
+    "en": "Years of Experience",
+    "ar": "عاماً من الخبرة"
+   }
+  },
+  {
+   "id": "projects",
+   "value": 50,
+   "suffix": {
+    "en": "+",
+    "ar": "+"
+   },
+   "label": {
+    "en": "Projects",
+    "ar": "مشروع"
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1996",
+   "title": {
+    "en": "Foundation",
+    "ar": "التأسيس"
+   },
+   "text": {
+    "en": "TODO: confirm founding year — KFO begins practising engineering consultancy in Riyadh, KSA.",
+    "ar": "TODO: تأكيد سنة التأسيس — انطلاق مكتب خالد الفقيه للاستشارات الهندسية في الرياض."
+   }
+  },
+  {
+   "year": "2005",
+   "title": {
+    "en": "Healthcare focus",
+    "ar": "التركيز على المرافق الصحية"
+   },
+   "text": {
+    "en": "TODO: confirm milestone — specialization in healthcare planning & design takes shape.",
+    "ar": "TODO: تأكيد المحطة — تبلور التخصص في تخطيط وتصميم المرافق الصحية."
+   }
+  },
+  {
+   "year": "2015",
+   "title": {
+    "en": "Growing portfolio",
+    "ar": "توسع المحفظة"
+   },
+   "text": {
+    "en": "TODO: confirm milestone — expansion across healthcare, education and building projects.",
+    "ar": "TODO: تأكيد المحطة — التوسع في مشاريع الرعاية الصحية والتعليم والمباني."
+   }
+  },
+  {
+   "year": "2025",
+   "title": {
+    "en": "29+ years of experience",
+    "ar": "أكثر من 29 عاماً من الخبرة"
+   },
+   "text": {
+    "en": "More than 29 years of experience in engineering consultancy, with over 50 projects and 35+ satisfied clients.",
+    "ar": "أكثر من 29 عاماً من الخبرة في الاستشارات الهندسية، مع أكثر من 50 مشروعاً وأكثر من 35 عميلاً."
+   }
+  }
+ ],
+ "knowledgeVideos": [
+  "Symposium on Modern Challenges in Hospital Design – Opening Remarks and the Dean’s Speech",
+  "رحلة مشروع الجزء الاول",
+  "رحلة مشروع الجزء الثاني",
+  "رحلة مشروع الجزء الثالث",
+  "Data Driven Design | المهندس وسيم الهواري",
+  "مبادئ واسس تصميم المستشفيات (ندوة بجامعة أم القرى)| المهندس خالد الفقيه",
+  "مدخل لتصميم وتخطيط المباني الصحية (كلية العمارة بجامعة الملك سعود) - المهندس خالد الفقيه",
+  "طلاب كلية العمارة مع المهندس خالد الفقيه في زيارة ميدانية لمستشفى الدكتور محمد الفقيه بالرياض",
+  "شعبة معماريي المباني الصحية وبرنامج الماجستيرفي تخصص المباني الصحية (كلية العمارة بجامعة الملك سعود)",
+  "كلمة الدكتور عبد العزيز الدوسري في افتتاح ورشة العمل بمديرية الشؤون الصحية بالرياض",
+  "مقدمة في تصميم المباني الصحية (ورشة عمل بمديرية الشؤون الصحية بالرياض)| الدكتور خالد الناصر",
+  "مبادي وأسس تصميم المستشفيات (مديرية الشؤون الصحية) | المهندس خالد الفقيه",
+  "مقدمة عن تصميم المستشفيات(ندوة بجامعة أم القرى)| د. زياد السويدان"
+ ],
+ "qualifications": [
+  {
+   "id": "qualification-1",
+   "image": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?auto=format&fit=crop&w=1000&q=80",
+   "title": {
+    "en": "TODO: Certificate title 1",
+    "ar": "TODO: عنوان الشهادة 1"
+   }
+  },
+  {
+   "id": "qualification-2",
+   "image": "https://images.unsplash.com/photo-1589330694653-ded6df03f754?auto=format&fit=crop&w=1000&q=80",
+   "title": {
+    "en": "TODO: Certificate title 2",
+    "ar": "TODO: عنوان الشهادة 2"
+   }
+  },
+  {
+   "id": "qualification-3",
+   "image": "https://images.unsplash.com/photo-1568667256549-094345857637?auto=format&fit=crop&w=1000&q=80",
+   "title": {
+    "en": "TODO: Certificate title 3",
+    "ar": "TODO: عنوان الشهادة 3"
+   }
+  },
+  {
+   "id": "qualification-4",
+   "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1000&q=80",
+   "title": {
+    "en": "TODO: Certificate title 4",
+    "ar": "TODO: عنوان الشهادة 4"
+   }
+  },
+  {
+   "id": "qualification-5",
+   "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=1000&q=80",
+   "title": {
+    "en": "TODO: Certificate title 5",
+    "ar": "TODO: عنوان الشهادة 5"
+   }
+  },
+  {
+   "id": "qualification-6",
+   "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1000&q=80",
+   "title": {
+    "en": "TODO: Certificate title 6",
+    "ar": "TODO: عنوان الشهادة 6"
+   }
+  },
+  {
+   "id": "qualification-7",
+   "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
+   "title": {
+    "en": "TODO: Certificate title 7",
+    "ar": "TODO: عنوان الشهادة 7"
+   }
+  },
+  {
+   "id": "qualification-8",
+   "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1000&q=80",
+   "title": {
+    "en": "TODO: Certificate title 8",
+    "ar": "TODO: عنوان الشهادة 8"
+   }
+  }
+ ]
+}

@@ -5,13 +5,14 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { ArrowLeft, ArrowRight, Calendar, MapPin } from 'lucide-react';
 import { buildMetadata } from '@/lib/seo';
-import { events, getEvent } from '@/data/events';
+import { getContent, getEvent } from '@/lib/content';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { Reveal } from '@/components/ui/Reveal';
 import { TodoText } from '@/components/ui/TodoText';
 import { formatDate } from '@/lib/utils';
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
+  const { events } = await getContent();
   return events.map((e) => ({ slug: e.slug }));
 }
 
@@ -20,7 +21,8 @@ export async function generateMetadata({
 }: {
   params: { locale: string; slug: string };
 }): Promise<Metadata> {
-  const event = getEvent(slug);
+  const content = await getContent();
+  const event = getEvent(content, slug);
   if (!event) return {};
   const t = await getTranslations({ locale, namespace: 'meta.event' });
   return buildMetadata({
@@ -37,7 +39,8 @@ export default async function EventPage({
 }: {
   params: { locale: string; slug: string };
 }) {
-  const event = getEvent(slug);
+  const content = await getContent();
+  const event = getEvent(content, slug);
   if (!event) notFound();
 
   setRequestLocale(locale);

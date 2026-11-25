@@ -3,7 +3,7 @@
 import { useMemo, useState } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
 import { Search } from 'lucide-react';
-import type { Article } from '@/data/articles';
+import type { Article } from '@/lib/types';
 import { ArticleCard } from './ArticleCard';
 import { cn } from '@/lib/utils';
 

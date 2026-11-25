@@ -1,16 +1,19 @@
+'use client';
+
 import { useLocale, useTranslations } from 'next-intl';
-import { stats } from '@/data/stats';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { CountUp } from '@/components/ui/CountUp';
 import { QualificationsGallery } from './QualificationsGallery';
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * Stats — "Our Achievements & Story in numbers" with count-up on enter,
  * followed by the qualifications ("Updated Profile") gallery strip.
  */
 export function StatsSection() {
+  const { stats } = useContent();
   const t = useTranslations('stats');
   const locale = useLocale();
 

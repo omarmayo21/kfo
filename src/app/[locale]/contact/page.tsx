@@ -3,8 +3,6 @@ import Image from 'next/image';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Phone, Mail, MessageCircle, MapPin, Clock } from 'lucide-react';
 import { buildMetadata } from '@/lib/seo';
-import { assets } from '@/data/assets';
-import { site } from '@/data/site';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
@@ -13,6 +11,7 @@ import { Button } from '@/components/ui/Button';
 import { TodoText } from '@/components/ui/TodoText';
 import { ContactForm } from '@/components/sections/shared/ContactForm';
 import { SocialIcons } from '@/components/layout/SocialIcons';
+import { getContent } from '@/lib/content';
 
 export async function generateMetadata({
   params: { locale }
@@ -25,6 +24,7 @@ export async function generateMetadata({
 
 export default async function ContactPage({ params: { locale } }: { params: { locale: string } }) {
   setRequestLocale(locale);
+  const { assets, site } = await getContent();
   const t = await getTranslations({ locale, namespace: 'pages.contact' });
   const tf = await getTranslations({ locale, namespace: 'footer' });
 

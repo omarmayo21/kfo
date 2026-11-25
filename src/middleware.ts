@@ -8,6 +8,6 @@ export const config = {
   matcher: [
     '/',
     '/(ar|en)/:path*',
-    '/((?!api|_next|_vercel|icon|apple-icon|opengraph-image|manifest|.*\\..*).*)'
+    '/((?!api|studio|_next|_vercel|icon|apple-icon|opengraph-image|manifest|.*\\..*).*)'
   ]
 };

@@ -1,16 +1,19 @@
+'use client';
+
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-import { assets } from '@/data/assets';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { Button } from '@/components/ui/Button';
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * CTA banner — parallax-feel full-bleed background (slow fixed cover),
  * navy overlay, editorial heading and a single clear action.
  */
 export function CtaBanner() {
+  const { assets } = useContent();
   const t = useTranslations('cta');
 
   return (

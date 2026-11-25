@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { site } from '@/data/site';
+import type { Content } from './types';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://kfoco.com';
 
@@ -40,7 +40,7 @@ export function buildMetadata({
       title,
       description,
       url,
-      siteName: site.name.en,
+      siteName: 'Khaled Alfagih Engineering Consultancy Company',
       locale: locale === 'ar' ? 'ar_SA' : 'en_US',
       type: 'website',
       ...(image ? { images: [{ url: image }] } : {})
@@ -54,7 +54,7 @@ export function buildMetadata({
 }
 
 /** JSON-LD: Organization + LocalBusiness for every page (injected in layout) */
-export function organizationJsonLd(locale: string) {
+export function organizationJsonLd(locale: string, { site, assets }: Pick<Content, 'site' | 'assets'>) {
   return {
     '@context': 'https://schema.org',
     '@graph': [
@@ -64,7 +64,7 @@ export function organizationJsonLd(locale: string) {
         name: locale === 'ar' ? 'شركة خالد الفقيه للاستشارات الهندسية' : site.name.en,
         alternateName: locale === 'ar' ? site.name.en : 'شركة خالد الفقيه للاستشارات الهندسية',
         url: SITE_URL,
-        logo: site.email ? `${SITE_URL}/wp-content/uploads/2023/09/Khaled-Alfagih-Logo.png` : undefined,
+        logo: assets.logo,
         email: site.email,
         telephone: site.phone,
         sameAs: site.socials.map((s) => s.href),
@@ -78,7 +78,7 @@ export function organizationJsonLd(locale: string) {
         '@type': 'LocalBusiness',
         '@id': `${SITE_URL}/#business`,
         name: locale === 'ar' ? 'شركة خالد الفقيه للاستشارات الهندسية' : site.name.en,
-        image: `${SITE_URL}/wp-content/uploads/2023/09/img1.jpg`,
+        image: assets.hero.slide1,
         url: SITE_URL,
         telephone: site.phone,
         email: site.email,

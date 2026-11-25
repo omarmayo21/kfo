@@ -1,11 +1,9 @@
 import type { MetadataRoute } from 'next';
 import { getSiteUrl } from '@/lib/seo';
-import { projects } from '@/data/projects';
-import { categories } from '@/data/categories';
-import { events } from '@/data/events';
-import { articles } from '@/data/articles';
+import { getContent } from '@/lib/content';
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const { projects, categories, events, articles } = await getContent();
   const base = getSiteUrl();
   const now = new Date();
 

@@ -1,10 +1,9 @@
 import type { Metadata } from 'next';
 import { setRequestLocale } from 'next-intl/server';
 import { buildMetadata } from '@/lib/seo';
-import { assets } from '@/data/assets';
-import { team } from '@/data/team';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { Reveal } from '@/components/ui/Reveal';
+import { getContent } from '@/lib/content';
 
 /**
  * Our Team — ported from the old site's (unlinked) /our-team page.
@@ -23,8 +22,9 @@ export async function generateMetadata({
   });
 }
 
-export default function OurTeamPage({ params: { locale } }: { params: { locale: string } }) {
+export default async function OurTeamPage({ params: { locale } }: { params: { locale: string } }) {
   setRequestLocale(locale);
+  const { assets, team } = await getContent();
   return (
     <>
       <PageHeader image={assets.pageHeaders.about} label="OUR TEAM" title="Our Team" crumbs={[{ label: 'Our Team' }]} />

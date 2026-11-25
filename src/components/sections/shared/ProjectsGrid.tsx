@@ -6,8 +6,8 @@ import { useLocale, useTranslations } from 'next-intl';
 import { AnimatePresence, motion, useReducedMotion } from 'framer-motion';
 import { MapPin, ArrowRight, ArrowLeft } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
-import type { Project } from '@/data/projects';
-import type { Category } from '@/data/categories';
+import type { Project } from '@/lib/types';
+import type { Category } from '@/lib/types';
 import { TodoText } from '@/components/ui/TodoText';
 import { cn } from '@/lib/utils';
 

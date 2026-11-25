@@ -1,15 +1,17 @@
+'use client';
+
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { Phone, Mail, MessageCircle, MapPin } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
-import { assets } from '@/data/assets';
-import { site } from '@/data/site';
 import { footerCompanyLinks } from '@/data/nav';
 import { SocialIcons } from './SocialIcons';
 import { TodoText } from '@/components/ui/TodoText';
+import { useContent } from '@/components/ContentProvider';
 
 /** Dark navy footer — about, quick links, contact, socials, copyright. */
 export function Footer() {
+  const { site, assets } = useContent();
   const t = useTranslations('footer');
   const tn = useTranslations('nav');
 
