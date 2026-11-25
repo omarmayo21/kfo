@@ -1,11 +1,9 @@
 import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { buildMetadata } from '@/lib/seo';
-import { assets } from '@/data/assets';
-import { knowledgeVideos } from '@/data/videos';
-import { articles } from '@/data/articles';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { KnowledgeExplorer } from '@/components/sections/shared/KnowledgeExplorer';
+import { getContent } from '@/lib/content';
 
 export async function generateMetadata({
   params: { locale }
@@ -18,6 +16,7 @@ export async function generateMetadata({
 
 export default async function KnowledgePage({ params: { locale } }: { params: { locale: string } }) {
   setRequestLocale(locale);
+  const { assets, knowledgeVideos, articles } = await getContent();
   const t = await getTranslations({ locale, namespace: 'pages.knowledge' });
 
   return (

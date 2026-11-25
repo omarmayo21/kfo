@@ -1,16 +1,19 @@
+'use client';
+
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-import { assets } from '@/data/assets';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { ArrowLink } from '@/components/ui/ArrowLink';
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * About intro — editorial two-column: text + large offset-framed image
  * with a floating "29+ Years" card.
  */
 export function AboutIntro() {
+  const { assets } = useContent();
   const t = useTranslations('about');
 
   return (

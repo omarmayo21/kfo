@@ -2,13 +2,12 @@ import type { Metadata } from 'next';
 import Image from 'next/image';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { buildMetadata } from '@/lib/seo';
-import { assets } from '@/data/assets';
-import { clients } from '@/data/clients';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { CtaBanner } from '@/components/sections/home/CtaBanner';
+import { getContent } from '@/lib/content';
 
 export async function generateMetadata({
   params: { locale }
@@ -21,6 +20,7 @@ export async function generateMetadata({
 
 export default async function OurClientsPage({ params: { locale } }: { params: { locale: string } }) {
   setRequestLocale(locale);
+  const { assets, clients } = await getContent();
   const t = await getTranslations({ locale, namespace: 'pages.clients' });
 
   return (

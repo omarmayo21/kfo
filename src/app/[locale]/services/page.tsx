@@ -1,8 +1,6 @@
 import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { buildMetadata } from '@/lib/seo';
-import { assets } from '@/data/assets';
-import { serviceList } from '@/data/services';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
@@ -11,6 +9,7 @@ import { Button } from '@/components/ui/Button';
 import { ServicesSection } from '@/components/sections/home/ServicesSection';
 import { ProcessSteps } from '@/components/sections/shared/ProcessSteps';
 import { CtaBanner } from '@/components/sections/home/CtaBanner';
+import { getContent } from '@/lib/content';
 
 export async function generateMetadata({
   params: { locale }
@@ -23,6 +22,7 @@ export async function generateMetadata({
 
 export default async function ServicesPage({ params: { locale } }: { params: { locale: string } }) {
   setRequestLocale(locale);
+  const { assets, serviceList } = await getContent();
   const t = await getTranslations({ locale, namespace: 'pages.services' });
   const ts = await getTranslations({ locale, namespace: 'services' });
 

@@ -1,8 +1,8 @@
 import { useLocale, useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { ArrowRight, ArrowLeft, Download, Calendar } from 'lucide-react';
-import type { Article } from '@/data/articles';
-import type { EventPost } from '@/data/events';
+import type { Article } from '@/lib/types';
+import type { EventPost } from '@/lib/types';
 import { formatDate, cn } from '@/lib/utils';
 
 /**

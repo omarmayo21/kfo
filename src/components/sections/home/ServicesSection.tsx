@@ -1,3 +1,5 @@
+'use client';
+
 import { useLocale, useTranslations } from 'next-intl';
 import {
   Compass,
@@ -6,11 +8,11 @@ import {
   PenTool,
   type LucideIcon
 } from 'lucide-react';
-import { services } from '@/data/services';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { ArrowLink } from '@/components/ui/ArrowLink';
+import { useContent } from '@/components/ContentProvider';
 
 const icons: Record<string, LucideIcon> = {
   planning: Compass,
@@ -24,6 +26,7 @@ const icons: Record<string, LucideIcon> = {
  * Hover: lift + gold accent line draws.
  */
 export function ServicesSection() {
+  const { services } = useContent();
   const t = useTranslations('services');
   const locale = useLocale();
 

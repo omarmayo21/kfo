@@ -1,9 +1,11 @@
+'use client';
+
 import Image from 'next/image';
 import { useLocale, useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { ArrowRight, ArrowLeft, MapPin } from 'lucide-react';
-import { getFeaturedProjects } from '@/data/projects';
-import { getCategory } from '@/data/categories';
+import type { Project } from '@/lib/types';
+import { useContent } from '@/components/ContentProvider';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
@@ -13,12 +15,13 @@ import { TodoText } from '@/components/ui/TodoText';
  * Featured projects — large image cards with hover zoom + overlay,
  * meta line (location / category / year), title slide-up and arrow reveal.
  */
-export function FeaturedProjects() {
+export function FeaturedProjects({ projects }: { projects: Project[] }) {
+  const { categories } = useContent();
+  const getCategory = (slug: string) => categories.find((c) => c.slug === slug);
   const t = useTranslations('projects');
   const locale = useLocale();
   const isRtl = locale === 'ar';
   const Arrow = isRtl ? ArrowLeft : ArrowRight;
-  const projects = getFeaturedProjects();
 
   return (
     <section className="relative bg-white py-20 lg:py-28">

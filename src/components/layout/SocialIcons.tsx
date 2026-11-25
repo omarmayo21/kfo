@@ -1,5 +1,8 @@
+'use client';
+
 import { Youtube, Twitter, Linkedin, Instagram, type LucideIcon } from 'lucide-react';
-import { site, type SocialId } from '@/data/site';
+import type { SocialId } from '@/lib/types';
+import { useContent } from '@/components/ContentProvider';
 import { cn } from '@/lib/utils';
 
 /** Pinterest is not in lucide — lightweight inline icon keeps the set consistent. */
@@ -39,6 +42,7 @@ export function SocialIcons({
   hoverClassName?: string;
   inverse?: boolean;
 }) {
+  const { site } = useContent();
   return (
     <ul className={cn('flex items-center gap-4', className)}>
       {site.socials.map((s) => {

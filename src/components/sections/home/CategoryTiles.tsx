@@ -4,10 +4,10 @@ import Image from 'next/image';
 import { useLocale, useTranslations } from 'next-intl';
 import { ArrowUpRight } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
-import { categories, getCategory } from '@/data/categories';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * Project categories — 8 tiles in a 12-col grid. HEALTHCARE (core specialty)
@@ -15,6 +15,7 @@ import { SectionHeading } from '@/components/ui/SectionHeading';
  * gold underline draws, arrow appears.
  */
 export function CategoryTiles() {
+  const { categories } = useContent();
   const t = useTranslations('categories');
   const locale = useLocale();
 

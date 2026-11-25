@@ -1,12 +1,15 @@
+'use client';
+
 import { useLocale, useTranslations } from 'next-intl';
-import { timeline } from '@/data/timeline';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { TodoText } from '@/components/ui/TodoText';
+import { useContent } from '@/components/ContentProvider';
 
 /** About page — 29-year journey timeline (placeholder milestones marked TODO). */
 export function Timeline() {
+  const { timeline } = useContent();
   const t = useTranslations('pages.about');
   const locale = useLocale();
 

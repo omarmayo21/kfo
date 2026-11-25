@@ -8,18 +8,18 @@ import { motion, useScroll, useMotionValueEvent, AnimatePresence } from 'framer-
 import { Menu, X } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
 import { mainNav } from '@/data/nav';
-import { assets } from '@/data/assets';
-import { site } from '@/data/site';
 import { Button } from '@/components/ui/Button';
 import { LanguageSwitcher } from './LanguageSwitcher';
 import { MobileMenu } from './MobileMenu';
 import { cn } from '@/lib/utils';
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * Sticky header: transparent over the hero → solid/blurred after scroll.
  * Hides on scroll down, reveals on scroll up.
  */
 export function Header() {
+  const { site, assets } = useContent();
   const t = useTranslations('nav');
   const locale = useLocale();
   const pathname = usePathname();

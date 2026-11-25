@@ -1,11 +1,14 @@
+'use client';
+
 import { Phone, Mail, MessageCircle } from 'lucide-react';
 import { useTranslations } from 'next-intl';
-import { site } from '@/data/site';
 import { SocialIcons } from './SocialIcons';
 import { LanguageSwitcher } from './LanguageSwitcher';
+import { useContent } from '@/components/ContentProvider';
 
 /** Slim desktop-only utility bar with contact channels + socials + language. */
 export function TopBar() {
+  const { site } = useContent();
   const t = useTranslations('topbar');
 
   return (

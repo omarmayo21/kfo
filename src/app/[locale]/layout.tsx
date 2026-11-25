@@ -5,6 +5,9 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale, getTranslations } from 'next-intl/server';
 import { Playfair_Display, Inter, IBM_Plex_Sans_Arabic } from 'next/font/google';
 import { routing } from '@/i18n/routing';
+import { getContent } from '@/lib/content';
+import { ContentProvider } from '@/components/ContentProvider';
+import type { SharedContent } from '@/lib/types';
 import { buildMetadata, organizationJsonLd } from '@/lib/seo';
 import { ScrollProgress } from '@/components/ui/ScrollProgress';
 import { Header } from '@/components/layout/Header';
@@ -72,11 +75,19 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
   const messages = await getMessages({ locale });
   const t = await getTranslations({ locale, namespace: 'nav' });
+  const content = await getContent();
+  const shared: SharedContent = {
+    site: content.site, assets: content.assets, categories: content.categories,
+    qualifications: content.qualifications, stats: content.stats, services: content.services,
+    processSteps: content.processSteps, timeline: content.timeline,
+    clientsRowA: content.clientsRowA, clientsRowB: content.clientsRowB
+  };
 
   return (
     <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'} suppressHydrationWarning>
       <body className={`${playfair.variable} ${inter.variable} ${plexArabic.variable}`}>
         <NextIntlClientProvider locale={locale} messages={messages}>
+        <ContentProvider value={shared}>
           {process.env.NEXT_PUBLIC_GA_ID && (
             <>
               <Script
@@ -102,7 +113,7 @@ export default async function LocaleLayout({
           {/* JSON-LD: Organization + LocalBusiness */}
           <script
             type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd(locale)) }}
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd(locale, content)) }}
           />
           <a
             href="#main-content"
@@ -117,6 +128,7 @@ export default async function LocaleLayout({
           <FloatingActions />
           <AccessibilityWidget />
           <SmoothScroll />
+        </ContentProvider>
         </NextIntlClientProvider>
       </body>
     </html>

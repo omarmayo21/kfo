@@ -1,11 +1,14 @@
+'use client';
+
 import { useLocale, useTranslations } from 'next-intl';
-import { processSteps } from '@/data/services';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
 import { SectionHeading } from '@/components/ui/SectionHeading';
+import { useContent } from '@/components/ContentProvider';
 
 /** Services page process: Planning → Design → Supervision → Handover */
 export function ProcessSteps() {
+  const { processSteps } = useContent();
   const t = useTranslations('services');
   const locale = useLocale();
 

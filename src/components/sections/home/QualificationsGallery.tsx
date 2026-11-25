@@ -3,15 +3,16 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import { useLocale, useTranslations } from 'next-intl';
-import { qualifications } from '@/data/qualifications';
 import { Reveal } from '@/components/ui/Reveal';
 import { Lightbox } from '@/components/ui/Lightbox';
+import { useContent } from '@/components/ContentProvider';
 
 /**
  * Qualifications gallery ("Updated Profile" on the old site) — 8 items,
  * lightbox on click. TODO: replace placeholders with real certificates.
  */
 export function QualificationsGallery() {
+  const { qualifications } = useContent();
   const t = useTranslations('stats');
   const locale = useLocale();
   const [index, setIndex] = useState<number | null>(null);
