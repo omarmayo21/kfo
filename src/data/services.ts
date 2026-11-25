@@ -48,6 +48,82 @@ export const services: Service[] = [
   }
 ];
 
+/** The 8 services listed on the old site's Services page (EN + AR). */
+export const serviceList: Service[] = [
+  {
+    id: "engineering-consultancy",
+    number: '01',
+    title: { en: "Engineering Consultancy", ar: "الاستشارات الهندسية" },
+    description: {
+      en: "Independent technical advice and feasibility studies that guide sound project decisions.",
+      ar: "استشارات فنية مستقلة ودراسات جدوى تدعم اتخاذ قرارات المشروع."
+    }
+  },
+  {
+    id: "construction-supervision",
+    number: '02',
+    title: { en: "Construction Supervision", ar: "الإشراف على التنفيذ" },
+    description: {
+      en: "On-site supervision that keeps the works aligned with approved designs, quality and schedule.",
+      ar: "إشراف ميداني يضمن مطابقة الأعمال للتصاميم المعتمدة والجودة والجدول الزمني."
+    }
+  },
+  {
+    id: "design-services",
+    number: '03',
+    title: { en: "Design Services", ar: "خدمات التصميم" },
+    description: {
+      en: "Integrated multidisciplinary design, from concept through tender and construction documents.",
+      ar: "تصميم متكامل متعدد التخصصات من المفهوم حتى مستندات الطرح والتنفيذ."
+    }
+  },
+  {
+    id: "project-management",
+    number: '04',
+    title: { en: "Project Management", ar: "إدارة المشروع" },
+    description: {
+      en: "Planning, cost and schedule control, and coordination from inception to handover.",
+      ar: "تخطيط ومتابعة للتكلفة والجدول الزمني وتنسيق شامل حتى التسليم."
+    }
+  },
+  {
+    id: "architectural-design",
+    number: '05',
+    title: { en: "Architectural Design", ar: "التصميم المعماري" },
+    description: {
+      en: "Functional, code-compliant architecture tailored to healthcare and other facilities.",
+      ar: "تصاميم معمارية وظيفية مطابقة للاشتراطات للمنشآت الصحية وغيرها."
+    }
+  },
+  {
+    id: "medical-planning",
+    number: '06',
+    title: { en: "Medical Planning", ar: "تخطيط الرعاية الصحية" },
+    description: {
+      en: "Space programming and clinical workflow planning for efficient healthcare facilities.",
+      ar: "برمجة المساحات وتخطيط المسارات السريرية لمنشآت صحية أعلى كفاءة."
+    }
+  },
+  {
+    id: "interior-design",
+    number: '07',
+    title: { en: "Interior Design", ar: "التصميم الداخلي" },
+    description: {
+      en: "Practical, healing interiors for healthcare environments, including finishes and furniture.",
+      ar: "تصميم داخلي عملي يدعم بيئة العلاج ويشمل التشطيبات والأثاث."
+    }
+  },
+  {
+    id: "repurposing-renovation",
+    number: '08',
+    title: { en: "Repurposing & Renovation", ar: "التجديد وإعادة الاستخدام" },
+    description: {
+      en: "Upgrading and converting existing buildings to new uses with minimal disruption.",
+      ar: "تطوير المباني القائمة وتحويل استخدامها بأقل تعطيل ممكن."
+    }
+  }
+];
+
 /** Process steps for the Services page */
 export interface ProcessStep {
   id: string;

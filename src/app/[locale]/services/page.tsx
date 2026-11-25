@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { buildMetadata } from '@/lib/seo';
 import { assets } from '@/data/assets';
+import { serviceList } from '@/data/services';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { Reveal } from '@/components/ui/Reveal';
 import { SectionLabel } from '@/components/ui/SectionLabel';
@@ -34,6 +35,29 @@ export default async function ServicesPage({ params: { locale } }: { params: { l
         text={t('text')}
         crumbs={[{ label: t('label') }]}
       />
+
+      <section className="bg-white py-24">
+        <div className="container-x">
+          <Reveal>
+            <SectionLabel>{t('label')}</SectionLabel>
+          </Reveal>
+          <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+            {serviceList.map((s, i) => (
+              <Reveal key={s.id} delay={(i % 4) * 0.08}>
+                <div className="h-full border border-ink/10 bg-offwhite p-8">
+                  <p className="font-display text-2xl text-steel">{s.number}</p>
+                  <h3 className="mt-4 font-display text-xl font-medium text-ink">
+                    {locale === 'ar' ? s.title.ar : s.title.en}
+                  </h3>
+                  <p className="mt-3 text-sm leading-relaxed text-textc-muted">
+                    {locale === 'ar' ? s.description.ar : s.description.en}
+                  </p>
+                </div>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+      </section>
 
       {/* Reuse the services grid (dark section) */}
       <ServicesSection />

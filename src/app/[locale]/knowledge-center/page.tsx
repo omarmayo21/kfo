@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { buildMetadata } from '@/lib/seo';
 import { assets } from '@/data/assets';
+import { knowledgeVideos } from '@/data/videos';
 import { articles } from '@/data/articles';
 import { PageHeader } from '@/components/ui/PageHeader';
 import { KnowledgeExplorer } from '@/components/sections/shared/KnowledgeExplorer';
@@ -29,6 +30,27 @@ export default async function KnowledgePage({ params: { locale } }: { params: { 
         crumbs={[{ label: t('heading') }]}
       />
       <KnowledgeExplorer articles={articles} />
+
+      <section className="bg-offwhite py-20">
+        <div className="container-x">
+          <h2 className="font-display text-2xl font-medium text-ink">{t('videosHeading')}</h2>
+          <ul className="mt-8 grid gap-3 md:grid-cols-2">
+            {knowledgeVideos.map((title) => (
+              <li key={title} className="border border-ink/10 bg-white p-5 text-sm leading-relaxed text-textc-muted">
+                {title}
+              </li>
+            ))}
+          </ul>
+          <a
+            href="https://www.youtube.com/@kfoffices"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-8 inline-block border-b border-ink/20 pb-1.5 text-[12px] font-medium uppercase tracking-widest text-ink hover:border-gold"
+          >
+            {t('videosCta')}
+          </a>
+        </div>
+      </section>
     </>
   );
 }

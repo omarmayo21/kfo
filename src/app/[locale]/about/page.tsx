@@ -20,6 +20,7 @@ export async function generateMetadata({
 }
 
 const values = ['teamwork', 'client', 'knowledge'] as const;
+const principles = ['humanity', 'flexibility', 'functionality'] as const;
 
 export default async function AboutPage({ params: { locale } }: { params: { locale: string } }) {
   setRequestLocale(locale);
@@ -66,6 +67,32 @@ export default async function AboutPage({ params: { locale } }: { params: { loca
                 <div className="border border-ink/10 bg-white p-7">
                   <h3 className="font-display text-xl font-medium text-ink">{t(titleKey)}</h3>
                   <p className="mt-3 text-sm leading-relaxed text-textc-muted">{t(textKey)}</p>
+                </div>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Design principles (from the old site's About page) */}
+      <section className="bg-white py-24">
+        <div className="container-x">
+          <Reveal>
+            <SectionLabel>{t('principlesLabel')}</SectionLabel>
+          </Reveal>
+          <Reveal delay={0.08}>
+            <SectionHeading className="mt-5">{t('principlesHeading')}</SectionHeading>
+          </Reveal>
+          <Reveal delay={0.12}>
+            <p className="mt-5 max-w-2xl text-base leading-[1.85] text-textc-muted">{t('principlesText')}</p>
+          </Reveal>
+          <div className="mt-12 grid gap-6 md:grid-cols-3">
+            {principles.map((v, i) => (
+              <Reveal key={v} delay={i * 0.08}>
+                <div className="h-full border border-ink/10 bg-offwhite p-8">
+                  <p className="font-display text-3xl text-steel">{`0${i + 1}`}</p>
+                  <h3 className="mt-4 font-display text-xl font-medium text-ink">{t(`principles.${v}.title`)}</h3>
+                  <p className="mt-3 text-sm leading-relaxed text-textc-muted">{t(`principles.${v}.text`)}</p>
                 </div>
               </Reveal>
             ))}

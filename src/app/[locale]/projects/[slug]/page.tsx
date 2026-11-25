@@ -101,7 +101,7 @@ export default async function ProjectPage({
                   {locale === 'ar' ? 'بيانات المشروع' : 'Project Details'}
                 </h2>
                 <dl className="mt-6 space-y-5">
-                  {meta.map((m) => (
+                  {meta.filter((m) => m.value).map((m) => (
                     <div key={m.label} className="flex items-start gap-3.5 border-b border-ink/8 pb-4 last:border-0 last:pb-0">
                       <m.icon className="mt-0.5 h-4 w-4 shrink-0 text-steel" aria-hidden />
                       <div>
